@@ -106,7 +106,7 @@ lab_only = c("Attention, Perception, and Memory Lab",
 "Developmental Affective Neuroscience Lab",
 "Business School Research",
 "Neural Basis and Behavior of Social Communication"),
-urls = rep("/aly/",25)) %>%
+urls = rep("/labs/aly/",25)) %>%
   mutate(Lab = paste0("[", lab_only, "](", urls, ")"))
 
 
