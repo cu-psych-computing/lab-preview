@@ -1,7 +1,8 @@
 ---
 title: "Columbia Psychology Lab Preview"
 output:
-  blogdown::html_page
+  blogdown::html_page:
+    toc: false
 ---
 
 ```{r setup, include=FALSE}
@@ -9,7 +10,9 @@ library(kableExtra)
 library(tidyverse)
 ```
 
-**Our Lab Preview is scheduled for September 15th, 4:30 - 6:00 pm outside Schermerhorn Hall.**
+# Welcome
+
+**The Columbia Psychology Lab Preview is scheduled for September 15th, 4:30 - 6:00 pm outside Schermerhorn Hall.**
 
 We believe that the chance to participate in research is one of the best opportunities that our department has to offer.  By joining a lab, you will see how research projects are developed, how data is analyzed, and how presentations are put together for conferences and publication.  If you are involved in a lab for the long term, you may even contribute to a project that enables you to be a published researcher yourself.  
 

@@ -1,6 +1,5 @@
 ---
 title: "Aly Lab"
-always_allow_html: true
 ---
 
 <div class="embed-container">
