@@ -25,10 +25,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   faviconThemeColor = "#ffffff"
 
 [menu]
-  [[menu.main]]
-  name = "Home"
-  url = "/index/"
-  weight = 200
 
 [markup]
   defaultMarkdownHandler = "goldmark"
