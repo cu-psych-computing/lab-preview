@@ -1,16 +1,14 @@
 ---
 title: "Columbia Psychology Lab Preview"
 output:
-  blogdown::html_page:
-    toc: false
+  blogdown::html_page
 ---
 
 ```{r setup, include=FALSE}
 library(kableExtra)
+options(kableExtra.html.bsTable = TRUE)
 library(tidyverse)
 ```
-
-# Welcome
 
 **The Columbia Psychology Lab Preview is scheduled for September 15th, 4:30 - 6:00 pm outside Schermerhorn Hall.**
 

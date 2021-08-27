@@ -1,5 +1,5 @@
 ---
-title: "Aly Lab"
+title: "Attention, Perception, and Memory Lab"
 ---
 
 <div class="embed-container">
@@ -17,7 +17,9 @@ Hi we are the Aly lab attention and memory a tension with memory for attention
 
 ```{r, echo = F}
 library(kableExtra)
+options(kableExtra.html.bsTable = TRUE)
 labs <- data.frame(Contact = c("Zall Hirschtein"),
+                   Role = c("Lab Manager"),
                    Email = c("zall@columbia.edu"))
 labs %>%
   kbl() %>%
