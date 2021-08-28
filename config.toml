@@ -11,6 +11,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
 [permalinks]
     post = "/:slug/"
 
+[menu]
+  [[menu.main]]
+  name = "Labs"
+  url = "/labs/"
+  weight = 200
+
 [params]
   description = "Columbia Psychology Lab Preview"
   customDateFormat = "Jan 2, 2006"
