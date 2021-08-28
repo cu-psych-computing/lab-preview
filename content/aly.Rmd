@@ -3,6 +3,8 @@ title: Attention, Memory, and Perception Lab
 slug: aly
 ---
 
+# The Attention, Memory, and Perception Lab
+
 <div class="embed-container">
   <iframe
       width="640"

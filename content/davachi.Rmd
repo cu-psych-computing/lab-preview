@@ -3,6 +3,8 @@ title: Davachi Memory Lab
 slug: davachi
 ---
 
+# The Davachi Memory Lab
+
 <div class="embed-container">
   <iframe
       width="640"
