@@ -4,7 +4,7 @@ output:
   html_document
 always_allow_html: true
 slug: 'davachi'
-draft: false
+draft: true
 ---
 
 <div class="embed-container">
