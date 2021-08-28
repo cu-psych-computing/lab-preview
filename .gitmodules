@@ -4,3 +4,9 @@
 [submodule "themes/minimal-bootstrap-hugo-theme"]
 	path = themes/minimal-bootstrap-hugo-theme
 	url = https://github.com/zwbetz-gh/minimal-bootstrap-hugo-theme.git
+[submodule "themes/themes/minimal-bootstrap-hugo-theme"]
+	path = themes/themes/minimal-bootstrap-hugo-theme
+	url = https://github.com/zwbetz-gh/minimal-bootstrap-hugo-theme.git
+[submodule "themes/starter-hugo-academic"]
+	path = themes/starter-hugo-academic
+	url = https://github.com/wowchemy/starter-hugo-academic.git

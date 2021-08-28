@@ -24,8 +24,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
   faviconMsApplicationTileColor = "#da532c"
   faviconThemeColor = "#ffffff"
 
-[menu]
-
 [markup]
   defaultMarkdownHandler = "goldmark"
   [markup.goldmark]

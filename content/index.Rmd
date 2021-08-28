@@ -1,7 +1,8 @@
 ---
 title: "Columbia Psychology Lab Preview"
 output:
-  blogdown::html_page
+  html_document:
+    keep_md: yes
 ---
 
 ```{r setup, include=FALSE}
