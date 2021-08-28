@@ -1,10 +1,6 @@
 ---
-title: "Davachi Memory Lab"
-output:
-  html_document
-always_allow_html: true
-slug: 'davachi'
-draft: true
+title: Davachi Memory Lab
+slug: davachi
 ---
 
 <div class="embed-container">
@@ -18,12 +14,12 @@ draft: true
 </div>
 
 
-Hi we are the Aly lab attention and memory a tension with memory for attention
+Hi we are the Davachi lab attention and memory a tension with memory for attention
 
 ```{r, echo = F}
 library(kableExtra)
 options(kableExtra.html.bsTable = TRUE)
-contact <- data.frame(Contact = c("Nat"),
+contact <- data.frame(Contact = c("Nat "),
                    Role = c("Lab Manager"),
                    Email = c("zall@columbia.edu"))
 contact %>%
@@ -32,4 +28,3 @@ contact %>%
                    
                    
 ```
-
