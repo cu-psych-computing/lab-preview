@@ -1,3 +1,6 @@
-Faculty	Lab_only	urls
-Aly, Mariam	Attention, Perception, and Memory Lab	/aly/
-Tottenham, Nim	Developmental Affective Neuroscience Lab	/tottenham/
+Faculty	Lab_only	urls	RAs
+"Aly, Mariam"	"Attention, Perception, and Memory Lab"	/aly/	Yes
+"Bolger, Nial"	The Couples Lab	/bolger/	No
+"Higgins, Tory"	The Higgins Lab	/higgins/	No
+"Iyengar, Sheena"	"The Authenticity, Choice, and Technology Lab"	/iyengar/	Yes
+"Tottenham, Nim"	Developmental Affective Neuroscience Lab	/tottenham/	Yes
