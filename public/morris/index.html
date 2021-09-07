@@ -12,26 +12,26 @@
   
 
   
-  <link rel="apple-touch-icon" sizes="180x180" href="./apple-touch-icon.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png">
 
   
-  <link rel="icon" type="image/png" sizes="32x32" href="./favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png">
 
   
-  <link rel="icon" type="image/png" sizes="16x16" href="./favicon-16x16.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png">
 
   
-  <link rel="manifest" href="./site.webmanifest">
+  <link rel="manifest" href="../site.webmanifest">
 
   
-  <link rel="mask-icon" href="./safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="mask-icon" href="../safari-pinned-tab.svg" color="#5bbad5">
 
   <meta name="msapplication-TileColor" content="#da532c">
 
   <meta name="theme-color" content="#ffffff">
 
   
-  <link rel="stylesheet" href="./css/bootstrap.min.css" />
+  <link rel="stylesheet" href="../css/bootstrap.min.css" />
   
   
   <link
@@ -44,9 +44,7 @@
   
 
   
-  
-  
-  <title>Home | Columbia Psychology Lab Preview</title>
+  <title>The Cultural Psychology Lab | Columbia Psychology Lab Preview</title>
   
 
   <style>
@@ -364,7 +362,7 @@ button:focus {
 <body data-spy="scroll" data-target="#toc">
   <nav class="navbar navbar-expand-lg navbar-light bg-ligh fixed-top">
   <div class="container responsive-menu">
-    <a class="navbar-brand" href="./">Columbia Psychology Lab Preview</a>
+    <a class="navbar-brand" href="../">Columbia Psychology Lab Preview</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
       aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <i class="fa fa-bars"></i>
@@ -378,8 +376,8 @@ button:focus {
   </div>
 </nav>
   
-<script src="./js/jquery-3.3.1.slim.min.js"></script>
-<script src="./js/bootstrap.bundle.min.js"></script>
+<script src="../js/jquery-3.3.1.slim.min.js"></script>
+<script src="../js/bootstrap.bundle.min.js"></script>
 
     
   <script src="https://cdn.rawgit.com/afeld/bootstrap-toc/v1.0.1/dist/bootstrap-toc.min.js"></script>
@@ -400,135 +398,78 @@ button:focus {
   <div class="container">
     <article>
       
+<script src="../rmarkdown-libs/kePrint/kePrint.js"></script>
+<link href="../rmarkdown-libs/lightable/lightable.css" rel="stylesheet" />
+<link href="../rmarkdown-libs/bsTable/bootstrapTable.min.css" rel="stylesheet" />
+<script src="../rmarkdown-libs/bsTable/bootstrapTable.js"></script>
 
 
+<style type="text/css">
+.video-box {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+}
 
-<script src="./rmarkdown-libs/kePrint/kePrint.js"></script>
-<link href="./rmarkdown-libs/lightable/lightable.css" rel="stylesheet" />
-<link href="./rmarkdown-libs/bsTable/bootstrapTable.min.css" rel="stylesheet" />
-<script src="./rmarkdown-libs/bsTable/bootstrapTable.js"></script>
-
-
-<div id="welcome" class="section level1">
-<h1>Welcome!</h1>
-<hr />
-<p><strong>The Columbia Psychology Lab Preview is scheduled for September 15th, 3:00 - 4:30 pm outside Schermerhorn Hall.</strong></p>
-<p>Click the button below to add the event to your Google Calendar</p>
-<p><a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MGE5NWlwNjQ2cHJkbmc2ZzBmZ3JuMnVxdGUgY19zNmZzdXU3N2tpMzI3ODBmNjdmMTg1MGI4Z0Bn&amp;tmsrc=c_s6fsuu77ki32780f67f1850b8g%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a></p>
-<hr />
-<p>We believe that the chance to participate in research is one of the best opportunities that our department has to offer. By joining a lab, you will see how research projects are developed, how data is analyzed, and how presentations are put together for conferences and publication. If you are involved in a lab for the long term, you may even contribute to a project that enables you to be a published researcher yourself.</p>
-<p>More information about specific labs is available at the links at the bottom of this page These pages have been curated just for <em>you</em> to let you know what each lab would expect from you and what you could expect from them. You can find each lab’s more general-purpose website <a href="https://psychology.columbia.edu/content/lab-websites">here</a></p>
-<div id="overview-of-lab-preview" class="section level2">
-<h2>Overview of Lab Preview</h2>
-<hr />
-<p>During the lab preview, representatives from the psychology department research labs will talk with you about their labs and the role that you might play. Our presenters include faculty members, postdoctoral fellows, graduate students and lab managers. Contact information for these individuals is included below. As you hear about projects that interest you, be sure to make a note by the name of the person who you would like to speak to about the project. Towards the end of the session, you will have an opportunity to talk with our presenters about getting involved in their research projects. If you are unable to speak with someone today, use the contact information that we have provided to get in touch with them later. In general, the best person to contact is the person who presented the project or the lab manager. If a graduate student presented the project, he or she is probably a better contact person than the faculty member who oversees the lab.</p>
-<p>Some of our presenters will tell you about their labs even though they do not currently need any research assistants. If you are interested in the research in these labs, you may want to contact them now to provide them with your resume and again before the spring semester to see if they are looking for research assistants at that time.</p>
-<p>This website is meant to act as an asynchronous extension of our typical Lab Preview Day. If you can’t make it to the official event, feel free to use the recruitment videos, blurbs, and contact info on this website to reach out to labs you’re interested in. The website will be updated throughout the year as the needs of labs change, so even if labs aren’t recruiting at the moment they may be in the future.</p>
+/* Then style the iframe to fit in the container div with full height and width */
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
+<div id="the-cultural-psychology-lab" class="section level1">
+<h1>The Cultural Psychology Lab</h1>
+<p><span style="color:green">
+<strong>The Cultural Psychology Lab is actively seeking research assistants</strong>
+</span></p>
+<div class="video-box">
+<p><iframe class="responsive-iframe" src="https://www.youtube.com/embed/tgbNymZ7vqY"></iframe></p>
 </div>
-<div id="ways-to-be-involved" class="section level2">
-<h2>Ways to be involved</h2>
 <hr />
-<p>There are three ways to get involved in a research lab:</p>
-<div id="volunteer" class="section level3">
-<h3>1) Volunteer</h3>
-<p>Many students volunteer in research labs. Some labs require that students volunteer for a period of time before becoming more “official” members of the lab.</p>
-</div>
-<div id="register-for-supervised-individual-research-psyc-3950" class="section level3">
-<h3>2) Register for Supervised Individual Research (PSYC 3950)</h3>
-<p>Many students register for supervised research. You may register for up to 4 points of supervised research per term. In general, you should figure that you will be working in a lab for approximately 3 hours per week per credit. This is not set in stone and must be negotiated with the specific lab that you will be working in. Different labs have slightly different requirements. As part of your supervised research, you will be expected to do some independent academic work related to the lab work you are doing. This may be a paper or an oral presentation, depending on the lab.</p>
-</div>
-<div id="work-studypaid-work" class="section level3">
-<h3>3) Work-study/Paid work</h3>
-<p>Sometimes labs will hire undergraduates as work-study students to work in their labs. Occasionally non-work study positions are available for students with very special skills that are needed (e.g., programming). This must be arranged with a particular lab on an individual basis.</p>
-</div>
-</div>
-<div id="lab-information" class="section level2">
-<h2>Lab Information</h2>
-<hr />
+<p>What situations trigger cultural conformity?</p>
+<p>How do people internalize and manage social scripts from multiple cultures?</p>
+<p>What are the different kinds of multiculturalism and how do these ideologies/policies guide choices and social perceptions?</p>
+<p>If you like to think about and study questions at the intersection of culture, gender, acculturation, and cognition, join the Morris Lab!</p>
+<p>Morris Lab is open for RA application all year around. RAs will be working closely with other members of the laboratory (including other RAs, graduate students, and postdoctoral fellows) on one or more of our ongoing research projects. You may be involved in different stages of research projects, including literature review, study design, preparing stimuli and materials, scheduling and running studies, entering or coding data, and data analysis.</p>
+<p>To apply for a research assistant position, please email Zachary Brown (<a href="mailto:zbrown20@gsb.columbia.edu" class="email">zbrown20@gsb.columbia.edu</a>) with a brief CV and your availability (e.g., Mon, Wed: 8am – 3pm, Tue: after 4pm, Fri, whole day, etc.).</p>
+<p>For more information about our lab’s recent and ongoing research, please visit:</p>
+<p><a href="http://www.michaelwmorris.com/lab" class="uri">http://www.michaelwmorris.com/lab</a>
+<a href="http://www.michaelwmorris.com/http://www.michaelwmorris.com/scientificpublications" class="uri">http://www.michaelwmorris.com/http://www.michaelwmorris.com/scientificpublications</a>
+or look up “morris mw” on google scholar</p>
 <table class=" lightable-material lightable-striped lightable-hover" style='font-family: "Source Sans Pro", helvetica, sans-serif; margin-left: auto; margin-right: auto;'>
 <thead>
 <tr>
 <th style="text-align:left;">
-Faculty
+Contact
 </th>
 <th style="text-align:left;">
-Lab
+Role
 </th>
 <th style="text-align:left;">
-Accepting RAs
+Email
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td style="text-align:left;">
-Aly, Mariam
+Zachary Brown
 </td>
 <td style="text-align:left;">
-<a href="./aly/">Attention, Perception, and Memory Lab</a>
+Lab Manager
 </td>
 <td style="text-align:left;">
-Yes
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Bolger, Nial
-</td>
-<td style="text-align:left;">
-<a href="./bolger/">The Couples Lab</a>
-</td>
-<td style="text-align:left;">
-No
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Higgins, Tory
-</td>
-<td style="text-align:left;">
-<a href="./higgins/">The Higgins Lab</a>
-</td>
-<td style="text-align:left;">
-No
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Iyengar, Sheena
-</td>
-<td style="text-align:left;">
-<a href="./iyengar/">The Authenticity, Choice, and Technology Lab</a>
-</td>
-<td style="text-align:left;">
-Yes
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Morris, Michael
-</td>
-<td style="text-align:left;">
-<a href="./morris/">The Cultural Psychology Lab</a>
-</td>
-<td style="text-align:left;">
-Yes
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Tottenham, Nim
-</td>
-<td style="text-align:left;">
-<a href="./tottenham/">Developmental Affective Neuroscience Lab</a>
-</td>
-<td style="text-align:left;">
-Yes
+<a href="mailto:zbrown20@gsb.columbia.edu" class="email">zbrown20@gsb.columbia.edu</a>
 </td>
 </tr>
 </tbody>
 </table>
-</div>
 </div>
 
     </article>
