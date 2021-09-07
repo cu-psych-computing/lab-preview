@@ -1,0 +1,68 @@
+---
+title: The Cultural Psychology Lab
+slug: morris
+---
+```{css, echo = FALSE}
+.video-box {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+}
+
+/* Then style the iframe to fit in the container div with full height and width */
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+```
+
+
+# The Cultural Psychology Lab
+
+<span style="color:green">
+**The Cultural Psychology Lab is actively seeking research assistants**
+</span>
+
+<div class="video-box">
+  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/tgbNymZ7vqY"></iframe>
+</div>
+
+***
+
+What situations trigger cultural conformity?  
+
+How do people internalize and manage social scripts from multiple cultures?
+
+What are the different kinds of multiculturalism and how do these ideologies/policies guide choices and social perceptions?
+ 
+If you like to think about and study questions at the intersection of culture, gender, acculturation, and cognition, join the Morris Lab!
+
+Morris Lab is open for RA application all year around. RAs will be working closely with other members of the laboratory (including other RAs, graduate students, and postdoctoral fellows) on one or more of our ongoing research projects. You may be involved in different stages of research projects, including literature review, study design, preparing stimuli and materials, scheduling and running studies, entering or coding data, and data analysis.
+
+To apply for a research assistant position, please email Zachary Brown (zbrown20@gsb.columbia.edu) with a brief CV and your availability (e.g., Mon, Wed: 8am – 3pm, Tue: after 4pm, Fri, whole day, etc.).
+
+For more information about our lab’s recent and ongoing research, please visit: 
+
+http://www.michaelwmorris.com/lab
+http://www.michaelwmorris.com/http://www.michaelwmorris.com/scientificpublications
+or look up "morris mw" on google scholar
+
+```{r, echo = F}
+library(kableExtra)
+options(kableExtra.html.bsTable = TRUE)
+contact <- data.frame(Contact = c("Zachary Brown"),
+                   Role = c("Lab Manager"),
+                   Email = c("zbrown20@gsb.columbia.edu"))
+contact %>%
+  kbl() %>%
+  kable_material(c("striped","hover"))
+                   
+                   
+```
+

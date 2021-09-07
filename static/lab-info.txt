@@ -3,4 +3,5 @@ Faculty	Lab_only	urls	RAs
 "Bolger, Nial"	The Couples Lab	/bolger/	No
 "Higgins, Tory"	The Higgins Lab	/higgins/	No
 "Iyengar, Sheena"	"The Authenticity, Choice, and Technology Lab"	/iyengar/	Yes
+"Morris, Michael"	The Cultural Psychology Lab	/morris/	Yes
 "Tottenham, Nim"	Developmental Affective Neuroscience Lab	/tottenham/	Yes
