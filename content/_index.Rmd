@@ -57,7 +57,7 @@ Sometimes labs will hire undergraduates as work-study students to work in their 
 
 ```{r, echo = F, warning = F}
 library(knitr)
-labs <- read_delim("../static/lab-info.txt", delim = "\t") %>%
+labs <- read_delim("../static/lab-info.txt", delim = "\t",show_col_types = FALSE) %>%
   mutate(Lab = paste0("[", Lab_only, "](", urls, ")"))
 
 
