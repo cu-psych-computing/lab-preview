@@ -7,8 +7,8 @@ slug: aly
 
 <div class="embed-container">
   <iframe
-      width="640"
-      height="480"
+      width="480"
+      height="270"
       src="https://drive.google.com/file/d/1HqhDKIyfnSQrsY55wkXSjhkggcu77YbK/preview"
       frameborder="0"
       allowfullscreen="">
@@ -16,14 +16,31 @@ slug: aly
 </div>
 
 
-Hi we are the Aly lab attention and memory a tension with memory for attention
+In psychology, it is traditional to divide up cognition (and the brain) and study each component separately. For example, in your classes, you may read about attention, perception, and memory in different chapters of your textbook. In the Aly Lab, we explore how the brain’s “memory systems” contribute to attention and perception, and how attention in turn shapes what we perceive, remember, and predict.
+
+To address these questions, we typically use complex, naturalistic stimuli, like scenes, paintings, virtual reality environments, and movies. We study the behavior of a variety of populations, including healthy young adults, healthy older adults, and individuals with amnesia. These behavioral measures are complemented by measures of brain activity (obtained with fMRI) and eye movements (measured with an eye tracker). We also use pharmacological manipulations to study how the brain’s neurotransmitter systems contribute to attention and memory. 
+
+Ongoing studies in the lab explore some of the following questions: 
+
+1. How do we prevent similar long-term memories from competing to guide attention?
+
+2. How do long-term memory and working memory compete or cooperate to guide attention?
+
+3. How do fluctuations in our attentional states shape what and how we remember?
+
+4. How does the acetylcholine system help the brain balance externally oriented attention and internally oriented memory retrieval?
+
+5. How can we use memory to generate predictions about upcoming events at multiple timescales?
+ 
+Volunteer research assistants (RAs) help with data collection, data entry, and other administrative work. We ask that RAs commit 5-10 hours a week for at least two semesters. If you are interested, please email Zall Hirschstein (zsh2109@columbia.edu) with your CV, a short statement indicating why you are interested in our lab, and your semester availability.
+
 
 ```{r, echo = F}
 library(kableExtra)
 options(kableExtra.html.bsTable = TRUE)
 contact <- data.frame(Contact = c("Zall Hirschtein"),
                    Role = c("Lab Manager"),
-                   Email = c("zall@columbia.edu"))
+                   Email = c("zsh2109@columbia.edu"))
 contact %>%
   kbl() %>%
   kable_material(c("striped","hover"))

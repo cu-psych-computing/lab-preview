@@ -1,0 +1,37 @@
+---
+title: The Authenticity, Choice, and Technology Lab
+slug: iyengar
+---
+
+# The Authenticity, Choice, and Technology Lab
+
+<span style="color:green">
+**The ACT Lab is actively seeking research assistants**
+</span>
+
+The ACT (Authenticity, Choice, and Technology) Lab is looking for research assistants (for credit or unpaid) to work with Sheena Iyengar of the Columbia Business School over the semester and beyond. Sheena works in social psychology and specializes in subjects such as innovation, authenticity, and how choice influences decisions and perceptions. Research candidates should be prepared to assist on projects in various capacities:
+
+* Running participants in studies
+
+* Summarizing papers
+
+* Gathering literature and other topical information
+
+* Helping with study design 
+
+We are very interested in bright minds, willing to seriously engage with and contribute to theoretical development.
+Please submit a resume/CV and tell us why you are interested in this position by reaching out to the contact information below.
+
+```{r, echo = F}
+library(kableExtra)
+options(kableExtra.html.bsTable = TRUE)
+contact <- data.frame(Contact = c("Sean Kaczmarek"),
+                   Role = c("Lab Manager"),
+                   Email = c("stk2133@columbia.edu"))
+contact %>%
+  kbl() %>%
+  kable_material(c("striped","hover"))
+                   
+                   
+```
+

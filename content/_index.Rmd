@@ -10,15 +10,15 @@ library(tidyverse)
 
 # Welcome!
 
------
+***
 
-**The Columbia Psychology Lab Preview is scheduled for September 15th, 4:30 - 6:00 pm outside Schermerhorn Hall.**
+**The Columbia Psychology Lab Preview is scheduled for September 15th, 3:00 - 4:30 pm outside Schermerhorn Hall.**
 
 Click the button below to add the event to your Google Calendar
 
 <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MGE5NWlwNjQ2cHJkbmc2ZzBmZ3JuMnVxdGUgY19zNmZzdXU3N2tpMzI3ODBmNjdmMTg1MGI4Z0Bn&amp;tmsrc=c_s6fsuu77ki32780f67f1850b8g%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
 
------
+***
 
 We believe that the chance to participate in research is one of the best opportunities that our department has to offer.  By joining a lab, you will see how research projects are developed, how data is analyzed, and how presentations are put together for conferences and publication.  If you are involved in a lab for the long term, you may even contribute to a project that enables you to be a published researcher yourself.  
 
@@ -26,18 +26,18 @@ More information about specific labs is available at the links at the bottom of 
 
 ## Overview of Lab Preview
 
------
+***
  
 During the lab preview, representatives from the psychology department research labs will talk with you about their labs and the role that you might play.  Our presenters include faculty members, postdoctoral fellows, graduate students and lab managers.  Contact information for these individuals is included below.  As you hear about projects that interest you, be sure to make a note by the name of the person who you would like to speak to about the project.  Towards the end of the session, you will have an opportunity to talk with our presenters about getting involved in their research projects.  If you are unable to speak with someone today, use the contact information that we have provided to get in touch with them later.  In general, the best person to contact is the person who presented the project or the lab manager.  If a graduate student presented the project, he or she is probably a better contact person than the faculty member who oversees the lab.
  
 Some of our presenters will tell you about their labs even though they do not currently need any research assistants.  If you are interested in the research in these labs, you may want to contact them now to provide them with your resume and again before the spring semester to see if they are looking for research assistants at that time.
 
-This website is meant to act as an asynchronous extension of our typical Lab Preview Day. If you can't make it to the official event, feel free to use the recruitment videos, blurbs, and contact info on this website to reach out to labs you're interested in. The webiste will be updated throughout the year as the needs of labs change.
+This website is meant to act as an asynchronous extension of our typical Lab Preview Day. If you can't make it to the official event, feel free to use the recruitment videos, blurbs, and contact info on this website to reach out to labs you're interested in. The website will be updated throughout the year as the needs of labs change, so even if labs aren't recruiting at the moment they may be in the future.
 
 
 ## Ways to be involved
 
------
+***
  
 There are three ways to get involved in a research lab:
  
@@ -53,17 +53,18 @@ Sometimes labs will hire undergraduates as work-study students to work in their 
 
 ## Lab Information
 
------
+***
 
 ```{r, echo = F, warning = F}
 library(knitr)
-labs <- read_delim("../static/lab-info.txt", delim = "\t",show_col_types = FALSE) %>%
-  mutate(Lab = paste0("[", Lab_only, "](", urls, ")"))
+labs <- read_delim("../static/lab-info.txt", delim = "\t", show_col_types = FALSE) %>%
+  mutate(Lab = paste0("[", Lab_only, "](", urls, ")")) %>%
+  mutate("Accepting RAs" = RAs)
 
 
 options(kableExtra.html.bsTable = TRUE)
 labs %>%
-  select(Faculty, Lab) %>%
+  select(Faculty, Lab, "Accepting RAs") %>%
   kbl() %>%
   kable_material(c("striped","hover"))
 ```
