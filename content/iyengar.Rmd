@@ -9,6 +9,16 @@ slug: iyengar
 **The ACT Lab is actively seeking research assistants**
 </span>
 
+<div class="embed-container">
+  <iframe
+      width="480"
+      height="270"
+      src="https://drive.google.com/file/d/1VlgTZgNt_4GRczlB50nrRnc4Pr64192w/preview"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>
+</div>
+
 The ACT (Authenticity, Choice, and Technology) Lab is looking for research assistants (for credit or unpaid) to work with Sheena Iyengar of the Columbia Business School over the semester and beyond. Sheena works in social psychology and specializes in subjects such as innovation, authenticity, and how choice influences decisions and perceptions. Research candidates should be prepared to assist on projects in various capacities:
 
 * Running participants in studies
