@@ -12,8 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/aly/</guid>
-      <description>The Attention, Memory, and Perception Lab 
- In psychology, it is traditional to divide up cognition (and the brain) and study each component separately. For example, in your classes, you may read about attention, perception, and memory in different chapters of your textbook. In the Aly Lab, we explore how the brain’s “memory systems” contribute to attention and perception, and how attention in turn shapes what we perceive, remember, and predict.</description>
+      <description>.video-box { position: relative; overflow: hidden; width: 100%; padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */ } /* Then style the iframe to fit in the container div with full height and width */ .responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }  The Attention, Memory, and Perception Lab The Attention, Memory, and Perception Lab is actively seeking research assistants</description>
     </item>
     
     <item>
@@ -46,6 +45,15 @@
       <guid>/couples/</guid>
       <description>The Couples Lab The Couples Lab is not actively seeking research assistants 
 In the Columbia Couples Lab we study dyadic processes (i.e. interactions between two individuals), particularly in health-relevant contexts. Our primary lines of research include how people co-experience stress, how people support each other through adversity, and how people cope with stress (e.g., do they co-ruminate?). We aim to understand how social relationships influence people’s functioning, especially during times of stress, as well as how the relationship itself functions during these adverse experiences.</description>
+    </item>
+    
+    <item>
+      <title>The Cultural Psychology Lab</title>
+      <link>/morris/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/morris/</guid>
+      <description>.video-box { position: relative; overflow: hidden; width: 100%; padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */ } /* Then style the iframe to fit in the container div with full height and width */ .responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }  The Cultural Psychology Lab The Cultural Psychology Lab is actively seeking research assistants</description>
     </item>
     
     <item>
