@@ -24,6 +24,10 @@ slug: tottenham
 
 # The Developmental Affective Neuroscience Lab
 
+<span style="color:green">
+**The Developmental Affective Neuroscience Lab is actively seeking research assistants**
+</span>
+
 <div class="video-box">
   <iframe class="responsive-iframe" src="https://drive.google.com/file/d/1DJ5gAFs5kBcJMaIP7qfbAQRUhPqzXtnb/preview"></iframe>
 </div>
@@ -59,6 +63,7 @@ We are examining how emotions and emotion regulation processes unfold in the dai
 7-10 hrs/week (with some weekend hours), 2 semester commitment 
 
 **RA responsibilities:**
+
 * Setting up REDCap surveys for families
 
 * Creating at-home calendars tailored to each family

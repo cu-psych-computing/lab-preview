@@ -1,5 +1,5 @@
 ---
-title: "Columbia Psychology Lab Preview"
+title: "Columbia Psychology Research Assistant Recruitment"
 ---
 
 ```{r setup, include=FALSE}
@@ -9,14 +9,6 @@ library(tidyverse)
 ```
 
 # Welcome!
-
-***
-
-**The Columbia Psychology Lab Preview is scheduled for September 15th, 3:00 - 4:30 pm outside Schermerhorn Hall.**
-
-Click the button below to add the event to your Google Calendar
-
-<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MGE5NWlwNjQ2cHJkbmc2ZzBmZ3JuMnVxdGUgY19zNmZzdXU3N2tpMzI3ODBmNjdmMTg1MGI4Z0Bn&amp;tmsrc=c_s6fsuu77ki32780f67f1850b8g%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
 
 ***
 
@@ -59,12 +51,12 @@ Sometimes labs will hire undergraduates as work-study students to work in their 
 library(knitr)
 labs <- read_delim("../static/lab-info.txt", delim = "\t", show_col_types = FALSE) %>%
   mutate(Lab = paste0("[", Lab_only, "](", urls, ")")) %>%
-  mutate("Accepting RAs" = RAs)
+  mutate("Recruiting Fall 2021" = RAs)
 
 
 options(kableExtra.html.bsTable = TRUE)
 labs %>%
-  select(Faculty, Lab, "Accepting RAs") %>%
+  select(Faculty, Lab, "Recruiting Fall 2021") %>%
   kbl() %>%
   kable_material(c("striped","hover"))
 ```
