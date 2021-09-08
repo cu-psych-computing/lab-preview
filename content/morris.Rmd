@@ -35,6 +35,10 @@ slug: morris
 
 ***
 
+## Research Questions
+
+***
+
 What situations trigger cultural conformity?  
 
 How do people internalize and manage social scripts from multiple cultures?
@@ -43,15 +47,21 @@ What are the different kinds of multiculturalism and how do these ideologies/pol
  
 If you like to think about and study questions at the intersection of culture, gender, acculturation, and cognition, join the Morris Lab!
 
+For more information about our lab’s recent and ongoing research, please visit
+
+http://www.michaelwmorris.com/
+
+or look up ["morris mw"](https://scholar.google.com/citations?user=3A9Xo_YAAAAJ&hl=en&oi=ao) on google scholar
+
+## RA Requirements
+
+***
+
 Morris Lab is open for RA application all year around. RAs will be working closely with other members of the laboratory (including other RAs, graduate students, and postdoctoral fellows) on one or more of our ongoing research projects. You may be involved in different stages of research projects, including literature review, study design, preparing stimuli and materials, scheduling and running studies, entering or coding data, and data analysis.
 
 To apply for a research assistant position, please email Zachary Brown (zbrown20@gsb.columbia.edu) with a brief CV and your availability (e.g., Mon, Wed: 8am – 3pm, Tue: after 4pm, Fri, whole day, etc.).
 
-For more information about our lab’s recent and ongoing research, please visit: 
-
-http://www.michaelwmorris.com/lab
-http://www.michaelwmorris.com/http://www.michaelwmorris.com/scientificpublications
-or look up "morris mw" on google scholar
+## Contact Information
 
 ```{r, echo = F}
 library(kableExtra)
