@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Columbia Psychology Lab Preview</title>
+    <title>Columbia Psychology Research Assistant Recruitment</title>
     <link>/</link>
-    <description>Recent content on Columbia Psychology Lab Preview</description>
+    <description>Recent content on Columbia Psychology Research Assistant Recruitment</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -32,7 +32,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/heiphetz/</guid>
-      <description>.video-box { position: relative; overflow: hidden; width: 100%; padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */ } /* Then style the iframe to fit in the container div with full height and width */ .responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }  Social and Moral Cognition Lab The Social and Moral Cognition Lab is not actively seeking research assistants</description>
+      <description>.video-box { position: relative; overflow: hidden; width: 100%; padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */ } /* Then style the iframe to fit in the container div with full height and width */ .responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }  Social and Moral Cognition Lab The Social and Moral Cognition Lab is not currently seeking research assistants</description>
     </item>
     
     <item>
@@ -71,8 +71,7 @@ In the Columbia Couples Lab we study dyadic processes (i.e. interactions betwee
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tottenham/</guid>
-      <description>.video-box { position: relative; overflow: hidden; width: 100%; padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */ } /* Then style the iframe to fit in the container div with full height and width */ .responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }  The Developmental Affective Neuroscience Lab 
- Lab Description: We are scientists who conduct research on emotional development and associated neurobiology.</description>
+      <description>.video-box { position: relative; overflow: hidden; width: 100%; padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */ } /* Then style the iframe to fit in the container div with full height and width */ .responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }  The Developmental Affective Neuroscience Lab The Developmental Affective Neuroscience Lab is actively seeking research assistants</description>
     </item>
     
     <item>
