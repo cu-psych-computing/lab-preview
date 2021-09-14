@@ -1,7 +1,21 @@
 Faculty	Lab_only	urls	RAs
 "Aly, Mariam"	"Attention, Perception, and Memory Lab"	/aly/	Yes
-"Bolger, Nial"	The Couples Lab	/bolger/	No
-"Higgins, Tory"	The Higgins Lab	/higgins/	No
-"Iyengar, Sheena"	"The Authenticity, Choice, and Technology Lab"	/iyengar/	Yes
-"Morris, Michael"	The Cultural Psychology Lab	/morris/	Yes
+"Amso, Dima"	Developmetal Cognitive Neuroscience Lab	/amso/	No
+"Baldassano, Chris"	Dynamic Perception and Memory Lab	/baldassano/	Yes
+"Balsam, Peter"	Adaptive Behavior Lab	/balsam/	No
+"Bolger, Nial"	Couples Lab	/bolger/	No
+"Cha, Christine"	Laboratory for Clinical and Developmental Studies 	/cha/	No
+"Graham, Norma"	Mathematical Models of Visual Processes	/downey/	No
+"Hart, Carl"	Human Behavioral Pharmacology	/hart/	No
+"Heiphetz, Larisa"	Social and Moral Cognition Lab	/heiphetz/	No
+"Higgins, Tory"	Higgins Lab	/higgins/	No
+"Iyengar, Sheena"	"Authenticity, Choice, and Technology Lab"	/iyengar/	Yes
+"Marlin, Bianca Jones"	The Marlin Lab	/marlin/	Yes
+"Matz, Sandra"	Computational Behavioral Science Lab	/matz/	Yes
+"Metcalfe, Janet"	Metacognition and Memory Lab	/metcalfe/	No
+"Morris, Michael"	Cultural Psychology Lab	/morris/	Yes
+"Ochsner, Kevin"	"Social, Cognitive, and Affective Neuroscience Lab"	/ochsner/	No
+"Purdie-Greenway, Valerie"	Laboratory of Intergroup Relations and the Social Mind	/purdie-greenway/	No
+"Shohamy, Daphna"	The Learning Lab	/shohamy/	No
+"Silver, Rae"	The Silver Neurobiology Lab	/silver/	Yes
 "Tottenham, Nim"	Developmental Affective Neuroscience Lab	/tottenham/	Yes
