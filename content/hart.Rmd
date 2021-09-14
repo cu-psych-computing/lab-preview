@@ -1,0 +1,73 @@
+---
+title: Human Behavioral Pharmacology
+slug: hart
+---
+
+```{css, echo = FALSE}
+.video-box {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+}
+
+/* Then style the iframe to fit in the container div with full height and width */
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+```
+
+# Human Behavioral Pharmacology
+
+<span style="color:red">
+**Prof. Hart is not currently seeking research assistants**
+</span>
+
+<div class="video-box">
+  <iframe class="responsive-iframe" src="https://drive.google.com/file/d/1CvNRwtxTi5pQTDUgJF_lWWnX39fpT8a0/preview"></iframe>
+</div>
+
+***
+
+## General Area of Research
+
+Behavioral and neuropharmacological effects of psychoactive drugs in human research participants. 
+
+
+### Current Research
+
+We investigate the physiological, subjective, and behavioral effects of a popular recreational drug combination in humans. 
+
+## Rationale
+
+The recreational use of drug combinations is common. Yet, the vast majority of human laboratory studies on psychoactive substance use are aimed at understanding single drug effects. Of course, this is an important and valuable strategy for enhancing the knowledge base about basic biobehavioral effects of recreational drugs. However, the disproportionate experimental attention on single drug studies may obscure our understanding of substance use because unique issues associated with drug combinations are often not addressed. We will improve this situation by using data collected in the current study to build upon the limited empirical database assessing the effects of recreational drug combinations in humans. 
+
+
+For more information please see our lab website: https://neuropsychopharmacologylab.psychology.columbia.edu
+
+
+We are not currently looking for volunteer research assistants. However, in the future we may need help with recruitment, data collection, data entry, writing and other administrative work. Please check our lab website or email Christopher Medina-Kirchner (cmk2206@columbia.edu) for updates. 
+
+
+
+## Contact Information
+
+```{r, echo = F}
+library(kableExtra)
+options(kableExtra.html.bsTable = TRUE)
+contact <- data.frame(Contact = c("Chris Medina-Kirchner "),
+                   Role = c("Graduate Student"),
+                   Email = c("cmk2206@columbia.edu"))
+contact %>%
+  kbl() %>%
+  kable_material(c("striped","hover"))
+                   
+                   
+```
+

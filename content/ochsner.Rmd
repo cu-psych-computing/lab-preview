@@ -1,0 +1,63 @@
+---
+title: Social, Cognitive, and Affective Neuroscience Lab
+slug: ochsner
+---
+
+```{css, echo = FALSE}
+.video-box {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+}
+
+/* Then style the iframe to fit in the container div with full height and width */
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+```
+
+# The Social, Cognitive, and Affective Neuroscience Lab
+
+<span style="color:red">
+**The Social, Cognitive, and Affective Neuroscience Lab is not currently seeking research assistants**
+</span>
+
+***
+
+## Research Projects
+
+Research in the Social, Cognitive and Affective Neuroscience lab examines the psychological and neural processes involved in extracting social, emotional, and cognitive meaning from the world. 
+
+As a research assistant, your involvement may include gathering relevant articles, recruiting participants, running studies, and assisting in data analysis. The requested time commitment is about 10-15 hours per week.
+
+Some current projects in our lab investigate: emotion experience and regulation in young versus elderly participants, emotion and self-regulation in individuals suffering from depression and suicidal tendencies, self-regulation of alcohol cravings in problem drinkers, the long-term effects of emotion regulation training, internalized stigma of those who are at clinical high-risk for developing psychosis, and more! We collect behavioral, psychophysiological and neural (fMRI) measures.
+
+## Contact Information
+
+To apply for a research assistant position, e-mail Sky Zhang tz2401@columbia.edu or
+Yi Zhang yz3549@columbia.edu. Please include a little bit about yourself and attach a CV. 
+
+
+```{r, echo = F}
+library(kableExtra)
+options(kableExtra.html.bsTable = TRUE)
+contact <- data.frame(Contact = c("Faustine Corbani",
+                                  "Anisha Marion"),
+                   Role = c("Lab Manager",
+                            "Bridge Scholar"),
+                   Email = c("fec2115@columbia.edu",
+                             "am5587@columbia.edu"))
+contact %>%
+  kbl() %>%
+  kable_material(c("striped","hover"))
+                   
+                   
+```
+

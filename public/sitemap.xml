@@ -2,17 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/balsam/</loc>
+  </url><url>
     <loc>/aly/</loc>
+  </url><url>
+    <loc>/iyengar/</loc>
   </url><url>
     <loc>/</loc>
   </url><url>
+    <loc>/matz/</loc>
+  </url><url>
     <loc>/davachi/</loc>
+  </url><url>
+    <loc>/amso/</loc>
+  </url><url>
+    <loc>/baldassano/</loc>
+  </url><url>
+    <loc>/hart/</loc>
+  </url><url>
+    <loc>/cha/</loc>
+  </url><url>
+    <loc>/purdie-greenway/</loc>
+  </url><url>
+    <loc>/downey/</loc>
+  </url><url>
+    <loc>/metcalfe/</loc>
+  </url><url>
+    <loc>/higgins/</loc>
   </url><url>
     <loc>/heiphetz/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>/downey/</loc>
   </url><url>
-    <loc>/iyengar/</loc>
+    <loc>/ochsner/</loc>
+  </url><url>
+    <loc>/tags/</loc>
   </url><url>
     <loc>/couples/</loc>
   </url><url>
@@ -20,6 +44,12 @@
   </url><url>
     <loc>/tottenham/</loc>
   </url><url>
-    <loc>/higgins/</loc>
+    <loc>/shohamy/</loc>
+  </url><url>
+    <loc>/marlin/</loc>
+  </url><url>
+    <loc>/woolley/</loc>
+  </url><url>
+    <loc>/silver/</loc>
   </url>
 </urlset>

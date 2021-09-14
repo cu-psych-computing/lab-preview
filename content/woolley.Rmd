@@ -1,0 +1,53 @@
+---
+title: The Neural Basis and Behavior of Social Communication Lab
+slug: woolley
+---
+
+```{css, echo = FALSE}
+.video-box {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+}
+
+/* Then style the iframe to fit in the container div with full height and width */
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+```
+
+# The Neural Basis and Behavior of Social Communication Lab
+
+<span style="color:red">
+**The Neural Basis and Behavior of Social Communication Lab is not currently seeking research assistants**
+</span>
+
+***
+
+## Research Projects
+
+See our [lab website](https://woolleylab.com/) for more information!
+
+## Contact Information
+
+
+```{r, echo = F}
+library(kableExtra)
+options(kableExtra.html.bsTable = TRUE)
+contact <- data.frame(Contact = c("Angelica Vina-Albarracin"),
+                   Role = c("Lab Manager"),
+                   Email = c("av2718@columbia.edu"))
+contact %>%
+  kbl() %>%
+  kable_material(c("striped","hover"))
+                   
+                   
+```
+

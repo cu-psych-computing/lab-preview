@@ -3,30 +3,64 @@ title: Davachi Memory Lab
 slug: davachi
 ---
 
+```{css, echo = FALSE}
+.video-box {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+}
+
+/* Then style the iframe to fit in the container div with full height and width */
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+```
+
 # The Davachi Memory Lab
 
-<div class="embed-container">
-  <iframe
-      width="640"
-      height="480"
-      src="https://drive.google.com/file/d/1HqhDKIyfnSQrsY55wkXSjhkggcu77YbK/preview"
-      frameborder="0"
-      allowfullscreen="">
-  </iframe>
+<span style="color:green">
+**The Davachi Memory Lab is currently seeking research assistants**
+</span>
+
+<div class="video-box">
+  <iframe class="responsive-iframe" src="https://drive.google.com/file/d/1u9jEaWREzcYN12QR4YYDOgqtAgwXBHaH/preview"></iframe>
 </div>
 
+***
 
-Hi we are the Davachi lab attention and memory a tension with memory for attention
+## Research Projects
+
+See the video above for the details of working with Molly Hermiller in the lab. If you're interested, reach out using the contact information below.
+
+The Davachi Lab generally is concerned with two primary research projects:
+
+### Mechanisms of memory consolidation
+
+As time passes after an initial learning experience, our memories do not remain perfectly unchanged. They may become more durable, may gradually lose their level of precision and detail, or may become incorporated into existing knowledge structures that inform and constrain our understanding of the world around us. These changes, in turn, are thought to be accompanied by transformations in how such memories are represented in the brain, both in the medial temporal lobe and the surrounding cortex.
+
+### Temporal structure of episodic memory
+
+Although our lives unfold continuously across time, we often remember our experiences as sequences of discrete events. How, then, do we derive structure from this constant stream of information? What neural and behavioral mechanisms might support our ability to organize, bind, or segment our everyday experiences into meaningful mnemonic events?
+
+## Contact Information
 
 ```{r, echo = F}
 library(kableExtra)
 options(kableExtra.html.bsTable = TRUE)
-contact <- data.frame(Contact = c("Nat "),
-                   Role = c("Lab Manager"),
-                   Email = c("zall@columbia.edu"))
+contact <- data.frame(Contact = c("Molly Hermiller"),
+                   Role = c("Post-Doc"),
+                   Email = c("ColumbiaDPML@gmail.com"))
 contact %>%
   kbl() %>%
   kable_material(c("striped","hover"))
                    
                    
 ```
+

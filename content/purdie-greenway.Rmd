@@ -1,0 +1,70 @@
+---
+title: Laboratory of Intergroup Relations and the Social Mind
+slug: purdie-greenway
+---
+
+```{css, echo = FALSE}
+.video-box {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+}
+
+/* Then style the iframe to fit in the container div with full height and width */
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+```
+
+# Laboratory of Intergroup Relations and the Social Mind (LIRSM)
+
+<span style="color:red">
+**The Laboratory of Intergroup Relations and the Social Mind is not currently seeking research assistants**
+</span>
+
+***
+
+## Research Projects
+
+Work on research exploring identity, diversity, and intergroup cooperation and how these processes affect individual performance and health. Gain valuable research skills using a variety of methods, from field studies to psychophysiological measures. Prepare yourself for graduate school with mentoring and journal discussions.
+ 
+### Identity Threat, Health, and Intervention
+
+What is the effect of contending with negative stereotypes or other threats to identity on subjective stress, physiological stress, health outcomes, and intellectual performance? How can we intervene to mitigate these harmful effects?
+### Structure of equality
+
+What structural factors influence racial and gender diversity, or lack thereof, in hiring? How do institutions influence the public’s understanding of race-related events and perpetuate inequality?
+
+### Intersectionality
+
+Do people ignore or pay closer attention to people with multiple stigmatized identities?
+
+
+### Computational Social Science
+
+How can we best use computational methods to study questions about the social environment?
+
+
+## Contact Information
+
+
+```{r, echo = F}
+library(kableExtra)
+options(kableExtra.html.bsTable = TRUE)
+contact <- data.frame(Contact = c("Valerie Purdie-Greenway"),
+                   Role = c("PI"),
+                   Email = c("lirsm@psych.columbia.edu"))
+contact %>%
+  kbl() %>%
+  kable_material(c("striped","hover"))
+                   
+                   
+```
+

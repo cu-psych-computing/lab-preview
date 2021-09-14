@@ -28,10 +28,19 @@ slug: tottenham
 **The Developmental Affective Neuroscience Lab is actively seeking research assistants**
 </span>
 
+***
+
 <div class="video-box">
-  <iframe class="responsive-iframe" src="https://drive.google.com/file/d/1DJ5gAFs5kBcJMaIP7qfbAQRUhPqzXtnb/preview"></iframe>
+  <iframe class="responsive-iframe" src="https://drive.google.com/file/d/1ma2grlHSCZ1g5D9G-EH-LiKYspSxmw2-/preview"></iframe>
 </div>
 
+***
+
+<div class="video-box">
+  <iframe class="responsive-iframe" src="https://drive.google.com/file/d/10meukr-Fe-Jgy6v5os0JqQwgdBnGE4MT/preview"></iframe>
+</div>
+
+***
 
 ## Lab Description:
 We are scientists who conduct research on emotional development and associated neurobiology. Our research focuses on the process of development itself and how early experiences impact emotional behavior and brain development. Dr. Nim Tottenham is the Principal Investigator of the lab. Students in the laboratory work on projects covering a wide range of topics including neurobiological correlates of early adversity, emotion regulation, face processing, and temperament. We are committed to hiring individuals with diverse backgrounds, experiences, and beliefs. To apply for a volunteer research assistant position, please visit our lab website [(danlab.psychology.columbia.edu)](danlab.psychology.columbia.edu) and complete the webform on the [Contact Us page](https://danlab.psychology.columbia.edu/content/contact-us). For more information, please contact Amaesha Durazi (ad3730@columbia.edu) and Syntia Hadis (ssh2186@columbia.edu).

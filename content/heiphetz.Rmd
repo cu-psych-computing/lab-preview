@@ -23,21 +23,19 @@ slug: heiphetz
 }
 ```
 
-# Social and Moral Cognition Lab
+# The Social and Moral Cognition Lab
 
 <span style="color:red">
 **The Social and Moral Cognition Lab is not currently seeking research assistants**
 </span>
 
 <div class="video-box">
-  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/tgbNymZ7vqY"></iframe>
+  <iframe class="responsive-iframe" src="https://drive.google.com/file/d/1EIXOJhgibKJbAjdxvur6fFQoMpkpyJJT/preview"></iframe>
 </div>
 
 ***
 
-## Research Questions
-
-***
+## Research Projects
 
 In the Social and Moral Cognition (SAMC) Lab, we are interested in how children and adults understand their social world. This is a big question, and many topics fit under this broad umbrella! Below are some topics we are currently investigating, and some of the questions we are most fascinated by:
 
@@ -49,7 +47,6 @@ How do children and adults reason about and interact with people who are differe
 
 Religious beliefs and practices are an important aspect of many people's lives, yet how individuals understand religious ideas remain under-studied in psychology. Our work shows that children and adults distinguish religious beliefs from other mental states, such as factual beliefs and opinions.
 
-
 ### Moral cognition
 
 People's moral viewpoints influence many aspects of their lives, including whom they choose to befriend, avoid, reward, and punish. Our work in this area investigates several interrelated topics, including children's understanding of morality and the relationship between moral beliefs and other types of beliefs (e.g., religious, factual, political). Another line of our work investigates how people judge moral beliefs to be a central aspect of their own (and others’) identity.
@@ -58,10 +55,9 @@ People's moral viewpoints influence many aspects of their lives, including whom 
 
 Currently, over 2.3 million American adults are behind bars. The vast majority of these individuals will return to the world outside the prison walls. What do these individuals experience before, during, and after their incarceration? Answering this question sheds light on many of the topics studied in our lab. For example, incarceration disproportionately affects African American communities, and currently and formerly incarcerated individuals face stigma in domains such as employment and housing. Therefore, work on intergroup attitudes can provide a helpful lens through which to understand some aspects of incarceration, and studying incarceration can move the study of intergroup attitudes into a domain that is relatively new for psychologists.
 
-## Contact Info
+## Contact Information
 
-***
-
+Interested in our work? If so, please contact Redeate Wolle at columbiasamclab@gmail.com for an application. Note: all research assistant (RA) positions for the Fall 2021 semester have been filled.
 
 ```{r, echo = F}
 library(kableExtra)

@@ -1,0 +1,52 @@
+---
+title: Mathematical Models of Visual Processes
+slug: downey
+---
+
+```{css, echo = FALSE}
+.video-box {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+}
+
+/* Then style the iframe to fit in the container div with full height and width */
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+```
+
+# Mathematical Models of Visual Processes
+
+<span style="color:red">
+**Prof. Graham is not currently seeking research assistants**
+</span>
+
+***
+
+Flexible position involving tasks in research on visual perception.  Depending on a person's interests and skills, these tasks might include data analysis and running mathematical models.  (Familiarity with excel and Matlab as well an interest in research on visual processing would be useful for these tasks, but previous knowledge is not required.)  These tasks generally also include miscellaneous administrative and clerical tasks (e.g., scanning, proofreading, running errands).  5-15 hours per week, flexible hours.  (Can be done through work-study or otherwise.)
+
+
+
+## Contact Information
+
+```{r, echo = F}
+library(kableExtra)
+options(kableExtra.html.bsTable = TRUE)
+contact <- data.frame(Contact = c("Norma Graham"),
+                   Role = c("PI"),
+                   Email = c("nvg1@columbia.edu"))
+contact %>%
+  kbl() %>%
+  kable_material(c("striped","hover"))
+                   
+                   
+```
+

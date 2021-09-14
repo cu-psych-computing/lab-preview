@@ -1,36 +1,46 @@
 ---
-title: The Authenticity, Choice, and Technology Lab
+title: Authenticity, Choice, and Technology Lab
 slug: iyengar
 ---
+
+```{css, echo = FALSE}
+.video-box {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+}
+
+/* Then style the iframe to fit in the container div with full height and width */
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+```
 
 # The Authenticity, Choice, and Technology Lab
 
 <span style="color:green">
-**The ACT Lab is actively seeking research assistants**
+**The Authenticity, Choice, and Technology Lab is currently seeking research assistants**
 </span>
 
-<div class="embed-container">
-  <iframe
-      width="480"
-      height="270"
-      src="https://drive.google.com/file/d/1VlgTZgNt_4GRczlB50nrRnc4Pr64192w/preview"
-      frameborder="0"
-      allowfullscreen="">
-  </iframe>
+<div class="video-box">
+  <iframe class="responsive-iframe" src="https://drive.google.com/file/d/1ryZLoMPONBzfLW9TsuceYKMwq_kj3qpF/preview"></iframe>
 </div>
 
-The ACT (Authenticity, Choice, and Technology) Lab is looking for research assistants (for credit or unpaid) to work with Sheena Iyengar of the Columbia Business School over the semester and beyond. Sheena works in social psychology and specializes in subjects such as innovation, authenticity, and how choice influences decisions and perceptions. Research candidates should be prepared to assist on projects in various capacities:
+***
 
-* Running participants in studies
+## Research Projects
 
-* Summarizing papers
+The ACT (Authenticity, Choice, and Technology) Lab is looking for research assistants (for credit or unpaid) to work with Sheena Iyengar of the Columbia Business School over the semester and beyond. Sheena works in social psychology and specializes in subjects such as innovation, authenticity, and how choice influences decisions and perceptions. Research candidates should be prepared to assist on projects in various capacities (running participants in studies, summarizing papers, gathering literature and other topical information, and helping with study design). We are very interested in bright minds, willing to seriously engage with and contribute to theoretical development.
+Please submit a resume/CV and tell us why you are interested in this position. Materials can be sent to ACT Lab Manager Sean Kaczmarek: stk2133@columbia.edu.
 
-* Gathering literature and other topical information
-
-* Helping with study design 
-
-We are very interested in bright minds, willing to seriously engage with and contribute to theoretical development.
-Please submit a resume/CV and tell us why you are interested in this position by reaching out to the contact information below.
+## Contact Information
 
 ```{r, echo = F}
 library(kableExtra)

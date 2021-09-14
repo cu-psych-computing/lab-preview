@@ -26,7 +26,7 @@ slug: morris
 # The Cultural Psychology Lab
 
 <span style="color:green">
-**The Cultural Psychology Lab is actively seeking research assistants**
+**The Cultural Psychology Lab is currently seeking research assistants**
 </span>
 
 <div class="video-box">
@@ -36,8 +36,6 @@ slug: morris
 ***
 
 ## Research Questions
-
-***
 
 What situations trigger cultural conformity?  
 
@@ -54,8 +52,6 @@ http://www.michaelwmorris.com/
 or look up ["morris mw"](https://scholar.google.com/citations?user=3A9Xo_YAAAAJ&hl=en&oi=ao) on google scholar
 
 ## RA Requirements
-
-***
 
 Morris Lab is open for RA application all year around. RAs will be working closely with other members of the laboratory (including other RAs, graduate students, and postdoctoral fellows) on one or more of our ongoing research projects. You may be involved in different stages of research projects, including literature review, study design, preparing stimuli and materials, scheduling and running studies, entering or coding data, and data analysis.
 

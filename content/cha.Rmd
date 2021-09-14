@@ -1,0 +1,63 @@
+---
+title: Laboratory for Clinical and Developmental Studies 
+slug: cha
+---
+
+```{css, echo = FALSE}
+.video-box {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+}
+
+/* Then style the iframe to fit in the container div with full height and width */
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+```
+
+# The Laboratory for Clinical and Developmental Studies 
+
+<span style="color:red">
+**The Laboratory for Clinical and Developmental Studies is not currently seeking research assistants**
+</span>
+
+***
+
+## Research Projects
+
+The Laboratory for Clinical and Developmental Studies (LCDS), in the Counseling and Clinical Psychology Department at Teachers College, Columbia University: In this clinical psychology lab, we address practical questions about suicide and self‐injury to better understand why people hurt or kill themselves. Our research pertains to both adulthood and adolescence and aims to improve our understanding of suicide risk across the lifespan. 
+
+Using methods from psychological science, we address practical questions about suicide and self-injury, such as: 
+
+* How can we more objectively assess suicide risk? 
+
+* Do certain patterns of thought place individuals at greater risk of self-harm? 
+
+* How do cognitive and other types of risk factors vary between adolescents and adults, and between suicidal and nonsuicidal youth? 
+
+Our lab conducts laboratory experiments and hospital-based data collection. For more information, please visit our [lab website](https://www.clinicaldevelopmentalstudies.com/)
+
+## Contact Information
+
+
+```{r, echo = F}
+library(kableExtra)
+options(kableExtra.html.bsTable = TRUE)
+contact <- data.frame(Contact = c("Neha Parvez"),
+                   Role = c("Lab Manager"),
+                   Email = c("np2716@tc.columbia.edu"))
+contact %>%
+  kbl() %>%
+  kable_material(c("striped","hover"))
+                   
+                   
+```
+

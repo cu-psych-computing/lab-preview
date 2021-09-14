@@ -30,7 +30,7 @@ slug: aly
 </span>
 
 <div class="video-box">
-  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/tgbNymZ7vqY"></iframe>
+  <iframe class="responsive-iframe" src="https://drive.google.com/file/d/1dccVekxcPio5jiYUiVj48x3yKwGPAdE7/preview"></iframe>
 </div>
 
 ***

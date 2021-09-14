@@ -1,0 +1,62 @@
+---
+title: Metacognition and Memory Lab
+slug: metcalfe
+---
+
+```{css, echo = FALSE}
+.video-box {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+}
+
+/* Then style the iframe to fit in the container div with full height and width */
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+```
+
+# The Metacognition and Memory Lab
+
+<span style="color:red">
+**The Metacognition and Memory Lab is not currently seeking research assistants**
+</span>
+
+***
+
+## Research Projects
+
+Metacognition refers to (a) our ability to monitor our own cognitive states (e.g., assessing how well we understand a text or how likely we are to remember a set of facts) and (b) the ways in which we use the output of this monitoring to make strategic decisions about how to study or what to study next. 
+ 
+We have two main lines of research in the lab:
+
+1. Studying the metacognitive processes that contribute to effective self-guided learning in young adults, with emphasis on mind wandering and examining how/when one mind wanders.
+
+2. Investigating the causes and consequences of the feeling of being in control of one's behavior and through it, effects in the environment.
+ 
+RAs tasks include, but are not restricted to: recruitment, running subjects, attending lab meetings, and literature searches. More experienced RAs (typically those who have spent more than a year with us) may sometimes take on their own research project. Ideally, we hope that RAs can commit to working 5-10h weekly for two semesters.
+ 
+If interested, please email us at metalab@psych.columbia.edu.
+
+## Contact Information
+
+```{r, echo = F}
+library(kableExtra)
+options(kableExtra.html.bsTable = TRUE)
+contact <- data.frame(Contact = c("Janet Metcalfe"),
+                   Role = c("PI"),
+                   Email = c("metalab@psych.columbia.edu"))
+contact %>%
+  kbl() %>%
+  kable_material(c("striped","hover"))
+                   
+                   
+```
+

@@ -1,0 +1,50 @@
+---
+title: Adaptive Behavior Lab
+slug: balsam
+---
+
+```{css, echo = FALSE}
+.video-box {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+}
+
+/* Then style the iframe to fit in the container div with full height and width */
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+```
+
+# The Adaptive Behavior Lab
+
+<span style="color:red">
+**The Adaptive Behavior Lab is not currently seeking research assistants**
+</span>
+
+***
+
+The Adaptive Behavioral Laboratory, under the direction of Peter Balsam, studies how animals learn the relationships between important events.  Using classical and operant conditioning procedures in rodents, we are interested in the behavioral and neural mechanisms of learning and motivation.  You can learn more about what we do on our lab website: http://www.columbia.edu/cu/psychology/balsam/index.html  We may be looking for additinoal research assistants.  
+
+We require a commitment of 10-12 hours a week (minimum) and need people who are available for at least 3-4 hour blocks of time on 2 days other than Friday or weekends, and some availability for lab meetings on Fridays.  Please contact Peter Balsam (balsam@columbia.edu) and tell us why you’re interested in our work, when you are available, and your background in psychology.
+
+```{r, echo = F}
+library(kableExtra)
+options(kableExtra.html.bsTable = TRUE)
+contact <- data.frame(Contact = c("Jorge Mallea"),
+                   Role = c("Graduate Student"),
+                   Email = c("j.mallea@columbia.edu"))
+contact %>%
+  kbl() %>%
+  kable_material(c("striped","hover"))
+                   
+                   
+```
+
