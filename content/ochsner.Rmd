@@ -41,8 +41,8 @@ Some current projects in our lab investigate: emotion experience and regulation 
 
 ## Contact Information
 
-To apply for a research assistant position, e-mail Sky Zhang tz2401@columbia.edu or
-Yi Zhang yz3549@columbia.edu. Please include a little bit about yourself and attach a CV. 
+To apply for a research assistant position, e-mail [Faustine Corbani](mailto:fec2115@columbia.edu) or
+[Anisha Marion](am5587@columbia.edu). Please include a little bit about yourself and attach a CV. 
 
 
 ```{r, echo = F}

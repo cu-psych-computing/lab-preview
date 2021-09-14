@@ -30,7 +30,7 @@ slug: iyengar
 </span>
 
 <div class="video-box">
-  <iframe class="responsive-iframe" src="https://drive.google.com/file/d/1ryZLoMPONBzfLW9TsuceYKMwq_kj3qpF/preview"></iframe>
+  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/rgiXrrqIu5k"></iframe>
 </div>
 
 ***

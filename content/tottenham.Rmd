@@ -25,19 +25,19 @@ slug: tottenham
 # The Developmental Affective Neuroscience Lab
 
 <span style="color:green">
-**The Developmental Affective Neuroscience Lab is actively seeking research assistants**
+**The Developmental Affective Neuroscience Lab is currently seeking research assistants**
 </span>
 
 ***
 
 <div class="video-box">
-  <iframe class="responsive-iframe" src="https://drive.google.com/file/d/1ma2grlHSCZ1g5D9G-EH-LiKYspSxmw2-/preview"></iframe>
+  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/UgVoWj-7Vj8"></iframe>
 </div>
 
 ***
 
 <div class="video-box">
-  <iframe class="responsive-iframe" src="https://drive.google.com/file/d/10meukr-Fe-Jgy6v5os0JqQwgdBnGE4MT/preview"></iframe>
+  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/8g2xtHVfAfA"></iframe>
 </div>
 
 ***

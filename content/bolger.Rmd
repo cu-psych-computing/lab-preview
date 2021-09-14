@@ -1,6 +1,6 @@
 ---
 title: The Couples Lab
-slug: couples
+slug: bolger
 ---
 
 # The Couples Lab
