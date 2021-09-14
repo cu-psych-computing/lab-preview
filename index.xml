@@ -152,10 +152,10 @@
     
     <item>
       <title>The Couples Lab</title>
-      <link>/couples/</link>
+      <link>/bolger/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/couples/</guid>
+      <guid>/bolger/</guid>
       <description>The Couples Lab The Couples Lab is not actively seeking research assistants 
 Research Projects In the Columbia Couples Lab we study dyadic processes (i.e. interactions between two individuals), particularly in health-relevant contexts. Our primary lines of research include how people co-experience stress, how people support each other through adversity, and how people cope with stress (e.g., do they co-ruminate?).
 We aim to understand how social relationships influence people’s functioning, especially during times of stress, as well as how the relationship itself functions during these adverse experiences.</description>
@@ -176,7 +176,7 @@ We aim to understand how social relationships influence people’s functioning, 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tottenham/</guid>
-      <description>.video-box { position: relative; overflow: hidden; width: 100%; padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */ } /* Then style the iframe to fit in the container div with full height and width */ .responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }  The Developmental Affective Neuroscience Lab The Developmental Affective Neuroscience Lab is actively seeking research assistants</description>
+      <description>.video-box { position: relative; overflow: hidden; width: 100%; padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */ } /* Then style the iframe to fit in the container div with full height and width */ .responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }  The Developmental Affective Neuroscience Lab The Developmental Affective Neuroscience Lab is currently seeking research assistants</description>
     </item>
     
     <item>
