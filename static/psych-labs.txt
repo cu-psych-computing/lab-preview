@@ -1,0 +1,17 @@
+Faculty	Lab_only	urls	RAs
+"Aly, Mariam"	"Attention, Perception, and Memory Lab"	/aly/	Yes
+"Amso, Dima"	Developmental Cognitive Neuroscience Lab	/amso/	No
+"Baldassano, Chris"	Dynamic Perception and Memory Lab	/baldassano/	Yes
+"Balsam, Peter"	Adaptive Behavior Lab	/balsam/	No
+"Bolger, Nial"	Couples Lab	/bolger/	No
+"Graham, Norma"	Mathematical Models of Visual Processes	/downey/	No
+"Hart, Carl"	Human Behavioral Pharmacology	/hart/	No
+"Heiphetz, Larisa"	Social and Moral Cognition Lab	/heiphetz/	No
+"Higgins, Tory"	Higgins Lab	/higgins/	No
+"Marlin, Bianca Jones"	The Marlin Lab	/marlin/	Yes
+"Metcalfe, Janet"	Metacognition and Memory Lab	/metcalfe/	No
+"Ochsner, Kevin"	"Social, Cognitive, and Affective Neuroscience Lab"	/ochsner/	No
+"Purdie-Greenway, Valerie"	Laboratory of Intergroup Relations and the Social Mind	/purdie-greenway/	No
+"Shohamy, Daphna"	The Learning Lab	/shohamy/	No
+"Silver, Rae"	The Silver Neurobiology Lab	/silver/	Yes
+"Tottenham, Nim"	Developmental Affective Neuroscience Lab	/tottenham/	Yes

@@ -12,11 +12,25 @@ library(tidyverse)
 
 ***
 
-We believe that the chance to participate in research is one of the best opportunities that our department has to offer.  By joining a lab, you will see how research projects are developed, how data is analyzed, and how presentations are put together for conferences and publication.  If you are involved in a lab for the long term, you may even contribute to a project that enables you to be a published researcher yourself.  
+Psychology is a science that is constantly evolving.  Researchers build on prior work and also introduce novel areas of investigation.  Researchers in our department study many topics including:  
 
-More information about specific labs is available at the links at the bottom of this page These pages have been curated just for *you* to let you know what each lab would expect from you and what you could expect from them. You can find each lab's more general-purpose website [here](https://psychology.columbia.edu/content/lab-websites).
+*	How the brain supports learning, memory, and decision making in humans.
 
-This website is meant to act as an asynchronous extension of our typical Lab Preview Day. The recruitment videos, blurbs, and contact info on this website are meant to let you know who is actively recruiting at the moment and how to reach out to them. The website will be updated throughout the year as the needs of labs change, so even if labs aren't recruiting at the moment they may be in the future.
+* The process of human development and how early experiences impact emotional behavior and brain development.
+
+* Understanding the impacts of rejection sensitivity, stigma, language, and other social factors.
+
+* How social support can assist health-related behavior change.
+
+* How children and adults understand their social world.
+
+* and many many more!
+
+By joining a research lab, you will see how research projects are developed, how data is analyzed, and how presentations are put together for conferences and publication. If you are involved in a lab for the long term, you may even contribute to a project that enables you to be a published researcher yourself.  Most labs are happy to take on research assistants with no prior experience as early as the Fall of their first year.
+
+More detailed information about specific labs is available at the links at the bottom of this page These pages have been curated just for *you* to let you know what each lab would expect from you and what you could expect from them. 
+
+This website is meant to act as an asynchronous extension of our Lab Preview Day which is usually held at the start of the Fall term. Some of the labs listed are recruiting NOW.  Others may be recruiting in the future.  Pay attention to whether or not a lab is actively recruiting before you contact them!  The info on this website are meant to give you the general information you need to determine whether or not a lab is a good fit for your interests and schedule. The website will be updated throughout the year as the needs of labs change, so even if labs aren’t recruiting at the moment they may be in the future.
 
 
 ## Ways to be involved
@@ -29,19 +43,40 @@ There are three ways to get involved in a research lab:
 Many students volunteer in research labs.  Some labs require that students volunteer for a period of time before becoming more “official” members of the lab.
  
 ### 2) Register for Supervised Individual Research (PSYC 3950) 
-Many students register for supervised research.  You may register for up to 4 points of supervised research per term.  In general, you should figure that you will be working in a lab for approximately 3 hours per week per credit.  This is not set in stone and must be negotiated with the specific lab that you will be working in.  Different labs have slightly different requirements.  As part of your supervised research, you will be expected to do some independent academic work related to the lab work you are doing.  This may be a paper or an oral presentation, depending on the lab.
+Many students receive credit for their research experience by registering for PSYC UN3950.  You may register for up to 4 credits of supervised research per term.  In general, you should figure that you will be working in a lab for at least 3 hours per week per credit. If you are hoping to apply PSYC UN3950 towards the major, 3 credits of PSYC UN3950 counts as one course and PSYC UN3950 can be counted for up to two courses towards the major.  (If you entered Columbia prior to Fall 2020, see the details for the old major requirements on the psych dept web site.)  As part of your supervised research, you will be expected to do some independent academic work related to the lab work you are doing. This may be a paper or an oral presentation, depending on the lab. It is recommended that you complete the PSYC 3950 Research Plan Contract with your mentor at the start of the semester to clarify the expectations of your lab work.  
+Finally, Juniors and Seniors who are part of the Senior Thesis Research Intensive will also be able to receive credit by registering for PSYC UN3930 (please discuss with the Research Intensive program director).
  
 ### 3) Work-study/Paid work 
-Sometimes labs will hire undergraduates as work-study students to work in their labs.  Occasionally non-work study positions are available for students with very special skills that are needed (e.g., programming).  This must be arranged with a particular lab on an individual basis.
+Sometimes labs will hire undergraduates as work-study students to work in their labs. Occasionally non-work study positions are available.  These positions are more frequently available for students with special skills that are needed (e.g., programming). This must be arranged with a particular lab on an individual basis
 
 
-## Lab Information
+## Labs in the Psychology Department
 
 ***
 
 ```{r, echo = F, warning = F}
 library(knitr)
-labs <- read_delim("../static/lab-info.txt", delim = "\t", show_col_types = FALSE) %>%
+labs <- read_delim("../static/psych-labs.txt", delim = "\t", show_col_types = FALSE) %>%
+  mutate(Lab = paste0("[", Lab_only, "](", urls, ")")) %>%
+  mutate("Recruiting Fall 2021" = RAs)
+
+
+options(kableExtra.html.bsTable = TRUE)
+labs %>%
+  select(Faculty, Lab, "Recruiting Fall 2021") %>%
+  kbl() %>%
+  kable_material(c("striped","hover")) %>%
+  kable_styling(full_width = T)
+```
+
+
+## Labs Across Columbia
+
+***
+
+```{r, echo = F, warning = F}
+library(knitr)
+labs <- read_delim("../static/other-labs.txt", delim = "\t", show_col_types = FALSE) %>%
   mutate(Lab = paste0("[", Lab_only, "](", urls, ")")) %>%
   mutate("Recruiting Fall 2021" = RAs)
 
@@ -52,6 +87,3 @@ labs %>%
   kbl() %>%
   kable_material(c("striped","hover"))
 ```
-
-
-
