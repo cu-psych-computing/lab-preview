@@ -88,7 +88,6 @@ td{
 
 ```{r, echo = F, warning = F}
 library(knitr)
-wrap_strings  <- function(vector_of_strings,width){as.character(sapply(vector_of_strings,FUN=function(x){paste(strwrap(x,width=width), collapse="<br>")}))}
 labs <- read_delim("../static/psych-labs.txt", delim = "\t", show_col_types = FALSE) %>%
   mutate(Lab = paste0("[", Lab_only, "](", urls, ")")) %>%
   mutate("Recruiting<br>Fall 2021" = RAs)
@@ -96,8 +95,7 @@ labs <- read_delim("../static/psych-labs.txt", delim = "\t", show_col_types = FA
 
 options(kableExtra.html.bsTable = TRUE)
 labs %>%
-  select(Faculty, Lab, "Recruiting<br>Fall 2021") %>%
-  #mutate(across(everything(), ~ wrap_strings(as.vector(.x), 20))) %>%
+  select("Recruiting<br>Fall 2021",Lab, Faculty) %>%
   kbl(escape = F) %>%
   kable_material(c("striped","hover"))
 
@@ -117,7 +115,7 @@ labs <- read_delim("../static/other-labs.txt", delim = "\t", show_col_types = FA
 
 options(kableExtra.html.bsTable = TRUE)
 labs %>%
-  select(Faculty, Lab, "Recruiting<br>Fall 2021") %>%
+  select("Recruiting<br>Fall 2021",Lab, Faculty) %>%
   kbl(escape = F) %>%
   kable_material(c("striped","hover"))
 ```
