@@ -1,5 +1,5 @@
 ---
-title: "Columbia Psychology Research Assistant Recruitment"
+title: "CU Psychology Research Assistant Opportunities"
 ---
 
 ```{r setup, include=FALSE}
