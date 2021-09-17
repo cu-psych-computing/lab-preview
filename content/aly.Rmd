@@ -27,11 +27,12 @@ slug: aly
 
 <span style="color:green">
 **The Attention, Memory, and Perception Lab is currently seeking research assistants**
-</span
+</span>
 
 <div class="video-box">
   <iframe class="responsive-iframe" src="https://www.youtube.com/embed/rfL8-Ir9t2s"></iframe>
 </div>
+
 
 ***
 
