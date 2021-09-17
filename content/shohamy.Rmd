@@ -25,9 +25,22 @@ slug: shohamy
 
 # The Learning Lab
 
-<span style="color:red">
-**The Learning Lab is not currently seeking research assistants**
+<span style="color:green">
+**The Learning Lab is currently seeking research assistants**
 </span>
+
+***
+
+<div class="video-box">
+  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/0xIn71ffSKY"></iframe>
+</div>
+
+***
+
+<div class="video-box">
+  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/XPUxmgPyTt0"></iframe>
+</div>
+
 
 ***
 
@@ -50,9 +63,12 @@ Ideally, RAs will commit to working 8 - 10 hours/week for a minimum of two semes
 ```{r, echo = F}
 library(kableExtra)
 options(kableExtra.html.bsTable = TRUE)
-contact <- data.frame(Contact = c("Eileen Hartneet"),
-                   Role = c("Lab Manager"),
-                   Email = c("eah2134@columbia.edu"))
+contact <- data.frame(Contact = c("Eileen Hartneet",
+                                  "Alice Xue"),
+                   Role = c("Lab Manager",
+                            "Lab Manager"),
+                   Email = c("eah2134@columbia.edu",
+                             "amx2002@columbia.edu"))
 contact %>%
   kbl() %>%
   kable_material(c("striped","hover"))
