@@ -60,12 +60,14 @@ The frames the videos are in needed a bit of CSS so that they resize with the sc
 
 ### Recruitment text
 Every lab is either recruiting or not recruiting RAs. If they are recruiting RAs, this should read:
-```<span style="color:green">
+```
+<span style="color:green">
 **The Heartbreaker Cognition Lab is currently seeking research assistants**
 </span
 ```
 If they are not recruiting RAs, this should read:
-```<span style="color:red">
+```
+<span style="color:red">
 **The Heartbreaker Cognition Lab is not currently seeking research assistants**
 </span
 ```
