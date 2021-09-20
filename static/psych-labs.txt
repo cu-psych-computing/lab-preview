@@ -4,7 +4,8 @@ Faculty	Lab_only	urls	RAs
 "Baldassano, Chris"	Dynamic Perception and Memory Lab	/baldassano/	Yes
 "Balsam, Peter"	Adaptive Behavior Lab	/balsam/	No
 "Bolger, Nial"	Couples Lab	/bolger/	No
-"Graham, Norma"	Mathematical Models of Visual Processes	/downey/	No
+"Downey, Geraldine"	Social Relations Lab	/downey/	No
+"Graham, Norma"	Mathematical Models of Visual Processes	/graham/	No
 "Hart, Carl"	Neuropsychopharmacology Lab	/hart/	No
 "Heiphetz, Larisa"	Social and Moral Cognition Lab	/heiphetz/	No
 "Higgins, Tory"	Motivational and Social Cognition Lab	/higgins/	No
