@@ -23,7 +23,7 @@ slug: higgins
 }
 ```
 
-# The Motivational and Social Cognition
+# The Motivational and Social Cognition Lab
 
 <span style="color:red">
 **The Motivational and Social Cognition Lab is not currently seeking research assistants**

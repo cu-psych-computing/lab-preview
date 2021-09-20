@@ -23,10 +23,10 @@ slug: hart
 }
 ```
 
-# Human Behavioral Pharmacology
+# Neuropsychopharmacology Lab
 
 <span style="color:red">
-**Prof. Hart is not currently seeking research assistants**
+**The Neuropsychopharmacology Lab is not currently seeking research assistants**
 </span>
 
 <div class="video-box">

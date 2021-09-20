@@ -52,6 +52,8 @@ Sometimes labs will hire undergraduates as work-study students to work in their 
 
 ## Learn more about graduate studies in psychology
 
+***
+
 ### The Psychology PhD podcast
 
 If you are interested in research in psychology, we would like to introduce you to [The Psychology PhD](https://psychology.columbia.edu/podcast), a new monthly podcast from graduate students in Columbia's psychology department! We created this podcast because we know that applying to PhD programs in psychology can be bewildering. We remember asking ourselves questions like:
@@ -95,7 +97,7 @@ labs <- read_delim("../static/psych-labs.txt", delim = "\t", show_col_types = FA
 
 options(kableExtra.html.bsTable = TRUE)
 labs %>%
-  select("Recruiting<br>Fall 2021",Lab, Faculty) %>%
+  select(Faculty, "Recruiting<br>Fall 2021", Lab) %>%
   kbl(escape = F) %>%
   kable_material(c("striped","hover"))
 
@@ -115,7 +117,7 @@ labs <- read_delim("../static/other-labs.txt", delim = "\t", show_col_types = FA
 
 options(kableExtra.html.bsTable = TRUE)
 labs %>%
-  select("Recruiting<br>Fall 2021",Lab, Faculty) %>%
+  select(Faculty, "Recruiting<br>Fall 2021", Lab) %>%
   kbl(escape = F) %>%
   kable_material(c("striped","hover"))
 ```
