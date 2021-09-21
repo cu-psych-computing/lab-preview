@@ -1,5 +1,5 @@
 ---
-title: "CU Psychology Research Assistant Opportunities"
+title: "CU Psychology Lab Preview"
 ---
 
 ```{r setup, include=FALSE}
@@ -8,81 +8,67 @@ options(kableExtra.html.bsTable = TRUE)
 library(tidyverse)
 ```
 
-# Welcome!
+# Welcome! 
 
 ***
 
-Psychology is a science that is constantly evolving.  Researchers build on prior work and also introduce novel areas of investigation.  Researchers in our department study many topics including:  
+Welcome to the Psych Department Lab Preview resource page.  If you are interested in becoming a researcher in a psychology related research lab, you have come to the right place!  Many of our labs are excited to bring new research assistants into their labs with no prior experience as early as the Fall of their first year!  What follows is information related to lab research generally, but if you are excited to see the information specific to the labs themselves, feel free to jump to the end and take a look at the opportunities available now and in the future!
+
+Psychology is a science that is constantly evolving. Researchers build on prior work and also introduce novel areas of investigation. Psychology faculty study many topics including:
 
 *	How the brain supports learning, memory, and decision making in humans.
 
 * The process of human development and how early experiences impact emotional behavior and brain development.
 
-* Understanding the impacts of rejection sensitivity, stigma, language, and other social factors.
+*	Understanding the impacts of rejection sensitivity, stigma, language, and other social factors.
 
-* How social support can assist health-related behavior change.
+*	How social support can assist health-related behavior change.
 
-* How children and adults understand their social world.
+*	How children and adults understand their social world.
 
-* and many many more!
+*	and many, many more!
 
-By joining a research lab, you will see how research projects are developed, how data is analyzed, and how presentations are put together for conferences and publication. If you are involved in a lab for the long term, you may even contribute to a project that enables you to be a published researcher yourself.  Most labs are happy to take on research assistants with no prior experience as early as the Fall of their first year.
+By joining a research lab, you may assist with developing new research projects, analyzing data, and putting together presentations for conferences and publication. If you are involved in a lab for the long term, you may even contribute to a project that enables you to be a published researcher yourself. 
 
-More detailed information about specific labs is available at the links at the bottom of this page These pages have been curated just for *you* to let you know what each lab would expect from you and what you could expect from them. 
-
-This website is meant to act as an asynchronous extension of our Lab Preview Day which is usually held at the start of the Fall term. Some of the labs listed are recruiting NOW.  Others may be recruiting in the future.  Pay attention to whether or not a lab is actively recruiting before you contact them!  The info on this website are meant to give you the general information you need to determine whether or not a lab is a good fit for your interests and schedule. The website will be updated throughout the year as the needs of labs change, so even if labs aren’t recruiting at the moment they may be in the future.
-
+The linked page below have been curated just for you to let you know what each lab would expect from you and what you could expect from them. Some of the labs listed are recruiting NOW. Others may be recruiting in the future. Pay attention to whether or not a lab is actively recruiting before you contact them! The website will be updated throughout the year as new labs are added and the needs of labs change.  Even if labs aren’t recruiting at the moment they may be in the future.  Be sure to look back in the spring if you don’t find something now!
 
 ## Ways to be involved
-
-***
  
 There are three ways to get involved in a research lab:
- 
-### 1) Volunteer
-Many students volunteer in research labs.  Some labs require that students volunteer for a period of time before becoming more “official” members of the lab.
- 
-### 2) Register for Supervised Individual Research (PSYC 3950) 
-Many students receive credit for their research experience by registering for PSYC UN3950.  You may register for up to 4 credits of supervised research per term.  In general, you should figure that you will be working in a lab for at least 3 hours per week per credit. If you are hoping to apply PSYC UN3950 towards the major, 3 credits of PSYC UN3950 counts as one course and PSYC UN3950 can be counted for up to two courses towards the major.  (If you entered Columbia prior to Fall 2020, see the details for the old major requirements on the psych dept web site.)  As part of your supervised research, you will be expected to do some independent academic work related to the lab work you are doing. This may be a paper or an oral presentation, depending on the lab. It is recommended that you complete the PSYC 3950 Research Plan Contract with your mentor at the start of the semester to clarify the expectations of your lab work.  
-Finally, Juniors and Seniors who are part of the Senior Thesis Research Intensive will also be able to receive credit by registering for PSYC UN3930 (please discuss with the Research Intensive program director).
- 
-### 3) Work-study/Paid work 
-Sometimes labs will hire undergraduates as work-study students to work in their labs. Occasionally non-work study positions are available.  These positions are more frequently available for students with special skills that are needed (e.g., programming). This must be arranged with a particular lab on an individual basis
 
+### 1) Volunteer
+Many students volunteer in research labs. Some labs require that students volunteer for a period of time before becoming more “official” members of the lab.
+
+### 2) Register for Supervised Individual Research (PSYC 3950)
+
+Many students receive credit for their research experience by registering for PSYC UN3950 (Supervised Individual Research). You may register for up to 4 credits of PSYC UN3950 per term. In general, you should figure that you will be working in a lab for at least 3 hours per week per credit. If you are hoping to apply PSYC UN3950 towards the major, 3 credits of PSYC UN3950 counts as “one course” and PSYC UN3950 can be used for up to two courses towards the major. (If you entered Columbia prior to Fall 2020, see the details for the old major requirements on the psych dept web site.) 
+
+As part of PSYC UN3950, you will be expected to do some independent academic work related to the lab work you are doing. This may be a paper or an oral presentation, depending on the lab. It is recommended that you complete the PSYC UN3950 Research Plan Contract with your mentor at the start of the semester to clarify the expectations of your lab work.
+
+Finally, starting in Spring 2022 juniors and seniors who are part of the Senior Thesis Research Intensive will also be able to receive credit by registering for PSYC UN3930 (please discuss with the Research Intensive Program Director).
+
+### 3) Work-study/Paid work
+
+Sometimes labs will hire undergraduates as work-study students or for other forms of paid work in their labs. These positions are often listed in the Psychology Dept Weekly Newsletter.  Non work-study positions are more frequently available for students with special skills that are needed (e.g., programming). All paid positions are arranged with a particular lab on an individual basis.
 
 ## Learn more about graduate studies in psychology
 
 ***
-
+ 
 ### The Psychology PhD podcast
 
-If you are interested in research in psychology, we would like to introduce you to [The Psychology PhD](https://psychology.columbia.edu/podcast), a new monthly podcast from graduate students in Columbia's psychology department! We created this podcast because we know that applying to PhD programs in psychology can be bewildering. We remember asking ourselves questions like:
+If you are thinking about pursuing graduate work in experimental psychology, we would like to introduce you to The Psychology PhD, a new monthly podcast from graduate students in Columbia’s psychology department! We created this podcast because we know that applying to PhD programs in psychology can be bewildering. We remember asking ourselves questions like:
 
-* Is a graduate degree in psychology right for me?
+*	Is a graduate degree in psychology right for me?
 
 * If so, what kind of program should I choose?
 
-* How do I develop competitive application materials?
+*	How do I develop competitive application materials?
 
-* Is there anyone else like me in these programs?
+*	Is there anyone else like me in these programs?
 
-If you're wondering about the same things, we encourage you to check out the podcast. It is available in video form on [YouTube](https://www.youtube.com/channel/UC4BJwb0pajknglnvdQeG7MQ) and in audio form on [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-psychology-phd/id1569195983), [Spotify](https://open.spotify.com/show/0MJCE1QkqBRRHYjMfaWgwI), or your other preferred podcast app. To receive notifications when new episodes launch each month, join our email list.
-
-```{css, echo = F}
-table{
-    table-layout: fixed;
-}
-td{
-    word-wrap:break-word
-}
-
-```
-
-<style>
-td{ 
-  word-break: break-word;
-}
-</style>
+If you’re wondering about the same things, we encourage you to check out the podcast. It is available in video form on YouTube and in audio form on Apple Podcasts, Spotify, or your other preferred podcast app. To receive notifications when new episodes launch each month, join our email list.
+Labs in the Psychology Department
 
 ## Labs in the Psychology Department
 
