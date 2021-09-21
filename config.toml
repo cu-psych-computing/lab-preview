@@ -1,6 +1,6 @@
 baseURL = "https://jnthorp.github.io/lab-preview/"
 languageCode = "en-us"
-title = "CU Psychology Research Assistant Opportunities"
+title = "CU Psychology Research Opportunities"
 theme = "minimal-bootstrap-hugo-theme"
 relativeURLs = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
@@ -13,7 +13,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
 
 
 [params]
-  description = "CU Psychology Research Assistant Opportunities"
+  description = "CU Psychology Research Opportunities"
   customDateFormat = "Jan 2, 2006"
   customCodeStyle = true
   customBlockquoteStyle = true

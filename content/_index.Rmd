@@ -1,5 +1,5 @@
 ---
-title: "CU Psychology Lab Preview"
+title: "CU Psychology Research Opportunities"
 ---
 
 ```{r setup, include=FALSE}
