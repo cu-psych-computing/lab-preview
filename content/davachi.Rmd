@@ -54,9 +54,9 @@ Although our lives unfold continuously across time, we often remember our experi
 ```{r, echo = F}
 library(kableExtra)
 options(kableExtra.html.bsTable = TRUE)
-contact <- data.frame(Contact = c("Molly Hermiller"),
-                   Role = c("Post-Doc"),
-                   Email = c("ColumbiaDPML@gmail.com"))
+contact <- data.frame(Contact = c("John Thorp"),
+                   Role = c("Graduate Student"),
+                   Email = c("jnt2136@columbia.edu"))
 contact %>%
   kbl() %>%
   kable_material(c("striped","hover"))
