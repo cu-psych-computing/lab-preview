@@ -1,0 +1,53 @@
+---
+title: Living Lab
+slug: spagna
+---
+
+```{css, echo = FALSE}
+.video-box {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+}
+
+/* Then style the iframe to fit in the container div with full height and width */
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+```
+
+# The Living Lab
+
+<span style="color:red">
+**The Living Lab is not currently seeking research assistants**
+</span>
+
+
+***
+
+# Lab description
+
+See our [website](http://www.alfredospagna.com/the-living-lab/) for more information!
+
+# Contact Information
+
+```{r, echo = F}
+library(kableExtra)
+options(kableExtra.html.bsTable = TRUE)
+contact <- data.frame(Contact = c("Alfredo Spagna"),
+                   Role = c("PI"),
+                   Email = c("as5559@columbia.edu"))
+contact %>%
+  kbl() %>%
+  kable_material(c("striped","hover"))
+                   
+                   
+```
+

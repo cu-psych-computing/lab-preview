@@ -1,0 +1,55 @@
+---
+title: Visual Inference Lab
+slug: kriegeskorte
+---
+
+```{css, echo = FALSE}
+.video-box {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+}
+
+/* Then style the iframe to fit in the container div with full height and width */
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+```
+
+# The Visual Inference Lab
+
+<span style="color:red">
+**The Visual Inference Lab is not currently seeking research assistants**
+</span>
+
+
+***
+
+# Lab description
+
+The Visual Inference Lab studies the brain information processing that enables visual perception, object recognition, and scene understanding. A core goal of the lab is to build neural network models to predict human and animal performance in visual tasks and the concomitant brain activity. Our research involves neural network modeling, measurement of behavior and brain activity in human and nonhuman primates, and development of statistical analysis and visualization techniques. Additional information about our research is available at our [lab website](https://kriegeskortelab.zuckermaninstitute.columbia.edu/)
+
+# Contact Information
+
+The lab is not actively recruiting RAs for the Fall 2021 semester, but we are open to reviewing applications for future openings, depending on the needs of ongoing projects and our senior lab members. The lab accepts applications either on a volunteer basis or for Supervised Individual Research/course credit. We require a commitment of 12 hours per week at minimum for at least one semester. Prior programming experience in Python is especially beneficial for all applicants, and is a requirement for students interested in computational projects. Interested students should complete the inquiry form listed on our website. Please direct any questions to Jennifer Lieberman (jl5401@columbia.edu).
+
+```{r, echo = F}
+library(kableExtra)
+options(kableExtra.html.bsTable = TRUE)
+contact <- data.frame(Contact = c("Jennifer Lieberman"),
+                   Role = c("Lab Manager"),
+                   Email = c("jl5401@columbia.edu"))
+contact %>%
+  kbl() %>%
+  kable_material(c("striped","hover"))
+                   
+                   
+```
+
