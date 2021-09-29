@@ -34,6 +34,8 @@ slug: spagna
 
 # Lab description
 
+The Living Lab is an initiative Directed by Alfredo Spagna, Faculty of the Psychology Department, and supported by students and faculty at Columbia University. The Lab endeavors to foster interdisciplinary collaborations that result in unconventional research projects and in interactive events where audiences can engage research topics in new ways. Broadly, we seek to draw connections across work in various disciplines to tell societally relevant stories. In the past, we have done this by recruiting creative individuals belonging to contrasting areas of study (psychology, journalism, neuroscience, theater, and philosophy, just to name a few). We meet with the goal of demonstrating that both psychology and neuroscience can (and, indeed, should) intersect more with the real world by challenging conventional approaches to research - still happening mostly inside laboratories. We strive to be a platform for scholars to imagine how various disciplines can complement each other,  promoting research projects and events that inspect socially relevant issues through these various lenses. 
+
 See our [website](http://www.alfredospagna.com/the-living-lab/) for more information!
 
 # Contact Information
