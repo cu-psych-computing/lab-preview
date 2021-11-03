@@ -1,4 +1,5 @@
 Faculty	Lab_only	urls	RAs
+"Aldao, Amelia"	TogetherCBT	/aldao/	Yes
 "Cha, Christine"	Laboratory for Clinical and Developmental Studies 	/cha/	No
 "Iyengar, Sheena"	"Authenticity, Choice, and Technology Lab"	/iyengar/	Yes
 "Matz, Sandra"	Computational Behavioral Science Lab	/matz/	Yes
