@@ -55,16 +55,16 @@ or look up ["morris mw"](https://scholar.google.com/citations?user=3A9Xo_YAAAAJ&
 
 Morris Lab is open for RA application all year around. RAs will be working closely with other members of the laboratory (including other RAs, graduate students, and postdoctoral fellows) on one or more of our ongoing research projects. You may be involved in different stages of research projects, including literature review, study design, preparing stimuli and materials, scheduling and running studies, entering or coding data, and data analysis.
 
-To apply for a research assistant position, please email Zachary Brown (zbrown20@gsb.columbia.edu) with a brief CV and your availability (e.g., Mon, Wed: 8am – 3pm, Tue: after 4pm, Fri, whole day, etc.).
+To apply for a research assistant position, please email Katherine Sun (qs2180@gsb.columbia.edu) with a brief CV and your availability (e.g., Mon, Wed: 8am – 3pm, Tue: after 4pm, Fri, whole day, etc.).
 
 ## Contact Information
 
 ```{r, echo = F}
 library(kableExtra)
 options(kableExtra.html.bsTable = TRUE)
-contact <- data.frame(Contact = c("Zachary Brown"),
+contact <- data.frame(Contact = c("Katherine Sun"),
                    Role = c("Lab Manager"),
-                   Email = c("zbrown20@gsb.columbia.edu"))
+                   Email = c("qs2180@gsb.columbia.edu"))
 contact %>%
   kbl() %>%
   kable_material(c("striped","hover"))
