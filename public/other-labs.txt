@@ -1,5 +1,6 @@
 Faculty	Lab_only	urls	RAs
 "Aldao, Amelia"	TogetherCBT	/aldao/	Yes
+"Auerbach, Randy"	The Translational Research on Affective Disorders and Suicide Laboratory	/auerbach/	Yes
 "Cha, Christine"	Laboratory for Clinical and Developmental Studies 	/cha/	No
 "Iyengar, Sheena"	"Authenticity, Choice, and Technology Lab"	/iyengar/	Yes
 "Matz, Sandra"	Computational Behavioral Science Lab	/matz/	Yes
