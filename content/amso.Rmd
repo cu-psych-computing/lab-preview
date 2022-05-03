@@ -25,8 +25,8 @@ slug: amso
 
 # The Developmental Cognitive Neuroscience Lab 
 
-<span style="color:red">
-**The Developmental Cognitive Neuroscience Lab is not currently seeking research assistants**
+<span style="color:green">
+**The Developmental Cognitive Neuroscience Lab is currently seeking research assistants**
 </span>
 
 ***

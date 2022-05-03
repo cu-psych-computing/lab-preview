@@ -24,8 +24,8 @@ slug: tottenham
 
 # The Developmental Affective Neuroscience Lab
 
-<span style="color:green">
-**The Developmental Affective Neuroscience Lab is currently seeking research assistants**
+<span style="color:red">
+**The Developmental Affective Neuroscience Lab is not currently seeking research assistants**
 </span>
 
 ***

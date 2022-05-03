@@ -1,0 +1,88 @@
+---
+title: The Translational Research on Affective Disorders and Suicide Laboratory
+slug: auerbach
+---
+
+```{css, echo = FALSE}
+.video-box {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+}
+
+/* Then style the iframe to fit in the container div with full height and width */
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+```
+
+# The Translational Research on Affective Disorders and Suicide Laboratory
+
+<span style="color:green">
+**The The Translational Research on Affective Disorders and Suicide Laboratory is currently seeking research assistants**
+</span>
+
+
+***
+
+## Lab Description:
+
+The *Translational Research on Affective Disorders and Suicide Laboratory* in the Department of Psychiatry at Columbia University focuses on identifying what causes depressive symptoms to unfold, how self-injurious and suicidal thoughts and behaviors develop, and how treatment for psychiatric disorders can be improved among adolescents. Ongoing projects utilize electrophysiology (e.g., EEG), neuroimaging (e.g., fMRI), and real-time monitoring approaches (e.g., EMA, passive sensor data) to investigate the etiology of depression and probe promising markers of suicide risk. For more information, please visit our lab website.
+
+Volunteer research assistants will have a wide range of learning opportunities and experiences, including but not limited to clinical training (e.g., diagnostic interviews), running participants (e.g., behavioral tasks, EEG data acquisition), and attending lab meeting. Priority will be given to research assistants who are interested in pursuing an honors thesis.  Generally, research assistants commit 8-10 hours/week for a minimum of two semesters. If interested, please email Dr. Auerbach (rpa2009@cumc.columbia.edu).
+
+### Major Depressive Disorder
+
+#### Adolescent Neuroimaging of Depression and Anxiety. 
+
+This Human Connectome Project is a multisite project seeking to build a comprehensive map of neural connections in the human brain, and the project goal is to determine whether we can identify reliable biomarkers for depression and anxiety disorders in adolescents, which then can then be used to more accurately predict clinical outcomes. 
+
+#### Mindfulness-Based Real-Time fMRI Neurofeedback for Depression
+
+Within this project, depressed adolescent will receive real-time fMRI neurofeedback to modulate brain regions related to rumination and depressogenic self-referential processing in order to attenuate depressive symptoms over time.
+
+#### Socioemotional Predictors of Adolescent Depression
+
+The overarching aim of this multisite study (Columbia University and Northwestern University) is to identify socioemotional processes across different units of analysis—clinical, behavioral, real-time monitoring (e.g., passive sensor, EMA), and neural markers (e.g., eye tracking, EEG/ERPs, MRI)—that lead to the escalation of depression symptoms and MDD. 
+
+#### Towards Identification of Neural Predictors of Adolescent Depression
+
+In the current study, healthy low-risk and high-risk (i.e., with a maternal history of MDD) adolescents aged 12-14 years completed a multimodal assessment using state-of-the-art neuroimaging techniques (EEG, fMRI, MRS) to identify neural markers that prospectively predict depression over a 2-year period. 
+
+### Suicidal Thoughts and Behaviors
+
+#### Identifying Children at Suicide Risk Following Emergency Department Discharge
+
+This study aims to delineate developmental, environmental, and internal factors that may confer increased risk for suicide following discharge from the pediatric Emergency Department. Additionally, within a subset of these children, MRI data will be acquired to probe neural activation within the context of reward processing as well as dopamine levels through neuromelanin scans. These data may help to understand specific neural indicators of prior and future suicide risk.
+
+#### Mobile Assessment for the Prediction of Risk States (MAPS)
+
+This multisite study (Columbia University, University of Pittsburgh, University of Oregon) leverages adolescents’ naturalistic use of smartphone technology, along with advanced signal processing and computational modeling approaches, to identify promising short-term predictors of suicide among high-risk adolescents.
+
+#### Smartphone and the Brain: Predicting Adolescent Suicide
+
+This study uses a multimodal approach—including neuroimaging, passive smartphone sensing, ecological momentary assessment, and clinical interviewing methods—to clarify factors that may facilitate the transition from suicidal ideation to action among adolescent discharged from the pediatric emergency department. 
+
+
+## Contact Information:
+
+
+```{r, echo = F}
+library(kableExtra)
+options(kableExtra.html.bsTable = TRUE)
+contact <- data.frame(Contact = c("Randy Auerbach"),
+                   Role = c("PI"),
+                   Email = c("rpa2009@cumc.columbia.edu"))
+contact %>%
+  kbl() %>%
+  kable_material(c("striped","hover"))
+                   
+                   
+```
