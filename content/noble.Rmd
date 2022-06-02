@@ -1,0 +1,69 @@
+---
+title: NEED Lab
+slug: noble
+---
+
+```{css, echo = FALSE}
+.video-box {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+}
+
+/* Then style the iframe to fit in the container div with full height and width */
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+```
+
+# The Neurocognition, Early Experience and Development (NEED) Lab
+
+<span style="color:green">
+**The NEED Lab is currently seeking research assistants**
+</span>
+
+***
+
+## Research Projects
+
+The Neurocognition, Early Experience and Development [(NEED)](https://needlabcolumbia.wixsite.com/needlab) lab at Teachers College, Columbia University, directed by Dr. Kimberly Noble, is seeking several students to join the Baby's First Years study team. Baby's First Years is the first clinical trial of poverty reduction on child development in early childhood. Students will receive training in coding videos of parent-child interactions in both English and Spanish. Students may obtain independent study or practicum credit for this experience.
+
+Qualified applicants will:
+
+- Be bilingual and bicultural native speakers of English and Spanish
+
+- Be able to commit to:
+
+   - a yearlong research experience (starting this summer through August of 2023)
+   
+   - 10-20 hours per week during summer terms & 10 hours a week during the academic year
+
+Preference will be given to individuals with experience coding videos.
+
+If interested, please fill out this [survey.](https://docs.google.com/forms/d/e/1FAIpQLSezlS9LuXAxeQITORJl5OYN54_JO0Z7MKIQuiJ6tpSEalqJ5Q/viewform)
+
+
+
+
+## Contact Information
+
+```{r, echo = F}
+library(kableExtra)
+options(kableExtra.html.bsTable = TRUE)
+contact <- data.frame(Contact = c("Kimberly Noble"),
+                   Role = c("PI"),
+                   Email = c("kgn2106@tc.columbia.edu"))
+contact %>%
+  kbl() %>%
+  kable_material(c("striped","hover"))
+                   
+                   
+```
+
