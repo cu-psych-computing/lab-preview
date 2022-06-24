@@ -3,6 +3,7 @@ Faculty	Lab_only	urls	RAs
 "Auerbach, Randy"	The Translational Research on Affective Disorders and Suicide Laboratory	/auerbach/	Yes
 "Cha, Christine"	Laboratory for Clinical and Developmental Studies 	/cha/	No
 "Iyengar, Sheena"	"Authenticity, Choice, and Technology Lab"	/iyengar/	Yes
+"Kao, Tina"	The Plasticity of Cognitive Maps Lab	/kao/	Yes
 "Matz, Sandra"	Computational Behavioral Science Lab	/matz/	Yes
 "Morris, Michael"	Cultural Psychology Lab	/morris/	Yes
 "Noble, Kimberly"	The NEED Lab	/noble/	Yes
