@@ -11,7 +11,7 @@ Faculty	Lab_only	urls	RAs
 "Hart, Carl"	Neuropsychopharmacology Lab	/hart/	No
 "Heiphetz, Larisa"	Social and Moral Cognition Lab	/heiphetz/	No
 "Higgins, Tory"	Motivational and Social Cognition Lab	/higgins/	No
-"Kriegeskorte, Niko"	Visual Inference Lab	/kriegeskorte/	No
+"Kriegeskorte, Niko"	Visual Inference Lab	/kriegeskorte/	Yes
 "Marlin, Bianca Jones"	The Marlin Lab	/marlin/	No
 "Metcalfe, Janet"	Metacognition and Memory Lab	/metcalfe/	No
 "Ochsner, Kevin"	"Social, Cognitive, and Affective Neuroscience Lab"	/ochsner/	No
