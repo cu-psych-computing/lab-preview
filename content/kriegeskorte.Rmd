@@ -25,8 +25,8 @@ slug: kriegeskorte
 
 # The Visual Inference Lab
 
-<span style="color:red">
-**The Visual Inference Lab is not currently seeking research assistants**
+<span style="color:green">
+**The Visual Inference Lab is currently seeking research assistants**
 </span>
 
 
