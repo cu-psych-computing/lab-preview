@@ -1,0 +1,63 @@
+---
+title: Combo Study
+slug: combo
+---
+
+```{css, echo = FALSE}
+.video-box {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+}
+
+/* Then style the iframe to fit in the container div with full height and width */
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+```
+
+# COMBO (COVID-19 Mother Baby Outcomes) Study
+
+
+<span style="color:green">
+**The COMBO study is currently seeking research assistants**
+</span>
+
+
+***
+
+## Project Description
+
+With more than 100 members spanning numerous Columbia University schools and departments, COMBO uses a collaborative approach to study mother-infant health during the COVID-19 pandemic. Led by Dr. Dani Dumitriu, Dr. Catherine Monk, and Dr. William Fifer our goal is to broadly understand the impact of both SARS-CoV-2 infections and the pandemic on the developing fetus, future child health, and future maternal health. As this is a novel virus, with currently unknown consequences to the health and well-being of pregnant women and their babies, outcomes studied span domains known to be affected by other prenatal infections and insults, such as fetal growth, risk of child asthma, neurodevelopment, maternal mental health, mother-infant relational health, and much more. We are seeking additional research assistants to help with participant recruitment, data collection, and data analysis. There are opportunities for both participant-facing study activities (e.g., administering infant neurodevelopmental assessments, calling participants to schedule visits, etc.) and computer-based study activities (e.g., data organization, data entry, etc.). Applicants must be able to commit to 10 or more hours per week and those who can commit to 15 hours per week will receive priority. 
+
+# Contact Information
+
+To apply, please email your CV, your anticipated weekly availability for the upcoming semester, and a brief message describing your interest in the project to Morgan Firestein, Maha Hussain, and Maggie Kyle (mhk2167@cumc.columbia.edu). Please feel free to get in touch with us if you have any questions or would like additional information.
+
+
+```{r, echo = F}
+library(kableExtra)
+options(kableExtra.html.bsTable = TRUE)
+contact <- data.frame(Contact = c("Morgan Firestein",
+                                  "Maha Hussain",
+                                  "Maggie Kyle"),
+                   Role = c("Postdoctoral Scholar",
+                            "Graduate Student",
+                            "Research Coordinator"),
+                   Email = c("mrf2138@cumc.columbia.edu",
+                             "mh3973@cumc.columbia.edu",
+                             "mhk2167@cumc.columbia.edu"))
+contact %>%
+  kbl() %>%
+  kable_material(c("striped","hover"))
+                   
+                   
+```
+
