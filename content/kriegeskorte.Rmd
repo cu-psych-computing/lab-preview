@@ -38,14 +38,24 @@ The Visual Inference Lab studies the brain information processing that enables v
 
 # Contact Information
 
-The lab is actively recruiting RAs for Summer 2022. The lab accepts applications either on a volunteer basis or for Supervised Individual Research/course credit. We require a commitment of 12 hours per week at minimum for at least one semester. Prior programming experience in Python is especially beneficial for all applicants, and is a requirement for students interested in computational projects. Interested students should complete the inquiry form listed on our website. Please direct any questions to Jennifer Lieberman (jl5401@columbia.edu).
+We intend to recruit at least one RA (possibly two) for a neuroimaging (functional MRI) project on the neural mechanism of human face perception. RAs will be primarily trained to conduct fMRI experiments and would participate in data collection, preprocessing, and analysis. If interested, RAs can also learn about visual computational modeling and model selection methods. RAs are welcome to participate in lab meetings, journal clubs, and other events.
+
+The lab accepts applications from students intending to enroll in research for course credit (e.g. PSYC UN3950 or equivalent). We require a commitment of 10-12 hours per week at minimum for at least one semester. Prior programming experience in Python is especially beneficial for all applicants, and is a requirement for students interested in working on computational projects.
+
+Interested students should complete the inquiry form listed on our website (listed under Participate -> Prospective Research Assistants). Please contact Jennifer Lieberman (jl5401@columbia.edu) and cc Wenxuan Guo (wg2361@columbia.edu) and Tal Golan (tal.golan@columbia.edu) with any questions.
 
 ```{r, echo = F}
 library(kableExtra)
 options(kableExtra.html.bsTable = TRUE)
-contact <- data.frame(Contact = c("Jennifer Lieberman"),
-                   Role = c("Lab Manager"),
-                   Email = c("jl5401@columbia.edu"))
+contact <- data.frame(Contact = c("Jennifer Lieberman",
+                                  "Wenxuan Guo",
+                                  "Tal Golan"),
+                   Role = c("Lab Manager",
+                            "Grad Student",
+                            "Post-Doc"),
+                   Email = c("jl5401@columbia.edu",
+                             "wg2361@columbia.edu",
+                             "tal.golan@columbia.edu"))
 contact %>%
   kbl() %>%
   kable_material(c("striped","hover"))
