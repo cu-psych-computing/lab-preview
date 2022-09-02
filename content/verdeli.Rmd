@@ -1,0 +1,55 @@
+---
+title: Global Mental Health Lab
+slug: verdeli
+---
+
+```{css, echo = FALSE}
+.video-box {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+}
+
+/* Then style the iframe to fit in the container div with full height and width */
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+```
+
+# Global Mental Health Lab
+
+<span style="color:green">
+**Global Mental Health Lab is currently seeking research assistants for at least the full academic year**
+</span>
+
+
+***
+
+## Lab Description:
+
+See the Global Mental Health Lab [website](https://www.tc.columbia.edu/gmhlab/) for more information. Note that the Global Mental Health Lab requires a commitment of at least a full academic year.
+
+## Contact Information:
+
+If you are interested in applying for a RA position, please reach out to Dr. Bryan Cheng, our Director of Research.
+
+```{r, echo = F}
+library(kableExtra)
+options(kableExtra.html.bsTable = TRUE)
+contact <- data.frame(Contact = c("Bryan Cheng, Ph.D."),
+                   Role = c("Director of Research"),
+                   Email = c("bhc2115@tc.columbia.edu"))
+contact %>%
+  kbl() %>%
+  kable_material(c("striped","hover"))
+                   
+                   
+```
+

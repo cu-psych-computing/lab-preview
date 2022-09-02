@@ -35,17 +35,16 @@ slug: amso
 
 The DCNLab is dedicated to understanding attention and executive functions, and specifically how they are shaped by children’s lived experiences. Our work begins in infancy and extends well into adolescence. Our lab is currently operating two arms, one for community engagement and service and another for basic science in NY city and several international locations.
 
-We are not currently able to add research assistants to our team, but expect that to change soon. In 2022, Please contact clb2220@columbia.edu with a statement of interest, any relevant background, and availability.
-
 ## Contact Information
 
+Please contact Monique Gilmore (mgg2163@columbia.edu) with a statement of interest, any relevant background, and availability.
 
 ```{r, echo = F}
 library(kableExtra)
 options(kableExtra.html.bsTable = TRUE)
-contact <- data.frame(Contact = c("Catherine Bianco"),
+contact <- data.frame(Contact = c("Monique Gilmore"),
                    Role = c("Research Staff Assistant"),
-                   Email = c("clb2220@columbia.edu"))
+                   Email = c("mgg2163@columbia.edu"))
 contact %>%
   kbl() %>%
   kable_material(c("striped","hover"))
