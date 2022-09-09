@@ -25,8 +25,8 @@ slug: ochsner
 
 # The Social, Cognitive, and Affective Neuroscience Lab
 
-<span style="color:red">
-**The Social, Cognitive, and Affective Neuroscience Lab is not currently seeking research assistants**
+<span style="color:green">
+**The Social, Cognitive, and Affective Neuroscience Lab is currently seeking research assistants**
 </span>
 
 ***
@@ -42,7 +42,7 @@ The current project in need of RAs examines how couples regulate each other's em
 
 ## Contact Information
 
-To apply for a research assistant position, e-mail ochsnerscanlab@gmail.com. Please include a little bit about yourself and attach a CV.
+To apply for a research assistant position, please fill up this [form](https://docs.google.com/forms/d/e/1FAIpQLScMUgy4PyCmoVtIk4KVMITRP8NHqJY_nI6fJ6TsnahUJAF3XA/viewform) and send a confirmation e-mail to ochsnerscanlab@gmail.com. Please include a little bit about yourself and attach a CV.
 
 
 ```{r, echo = F}
