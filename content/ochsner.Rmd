@@ -33,27 +33,27 @@ slug: ochsner
 
 ## Research Projects
 
-Research in the Social, Cognitive and Affective Neuroscience lab examines the psychological and neural processes involved in extracting social, emotional, and cognitive meaning from the world. 
+Research in the Social, Cognitive and Affective Neuroscience lab examines the psychological and neural processes involved in extracting social, emotional, and cognitive meaning from the world.
 
 As a research assistant, your involvement may include gathering relevant articles, recruiting participants, running studies, and assisting in data analysis. The requested time commitment is about 10-15 hours per week.
 
-Some current projects in our lab investigate: emotion experience and regulation in young versus elderly participants, emotion and self-regulation in individuals suffering from depression and suicidal tendencies, self-regulation of alcohol cravings in problem drinkers, the long-term effects of emotion regulation training, internalized stigma of those who are at clinical high-risk for developing psychosis, and more! We collect behavioral, psychophysiological and neural (fMRI) measures.
+The current project in need of RAs examines how couples regulate each other's emotions in daily life. Think of a time when someone close to you was sad. How did you respond to them? Why did you respond to them in the way you did? What were the consequences of your response? We investigate these questions within the context of a romantic relationship by utilizing a daily diary design.
+
 
 ## Contact Information
 
-To apply for a research assistant position, e-mail [Faustine Corbani](mailto:fec2115@columbia.edu) or
-[Anisha Marion](am5587@columbia.edu). Please include a little bit about yourself and attach a CV. 
+To apply for a research assistant position, e-mail ochsnerscanlab@gmail.com. Please include a little bit about yourself and attach a CV.
 
 
 ```{r, echo = F}
 library(kableExtra)
 options(kableExtra.html.bsTable = TRUE)
-contact <- data.frame(Contact = c("Faustine Corbani",
-                                  "Anisha Marion"),
+contact <- data.frame(Contact = c("Cate Hathaway",
+                                  "Isabel Velarde"),
                    Role = c("Lab Manager",
-                            "Bridge Scholar"),
-                   Email = c("fec2115@columbia.edu",
-                             "am5587@columbia.edu"))
+                            "Lab Manager"),
+                   Email = c("ochsnerscanlab@gmail.com",
+                             "ochsnerscanlab@gmail.com"))
 contact %>%
   kbl() %>%
   kable_material(c("striped","hover"))

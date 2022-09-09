@@ -1,5 +1,5 @@
 Faculty	Lab_only	urls	RAs
-"Aly, Mariam"	"Attention, Perception, and Memory Lab"	/aly/	No
+"Aly, Mariam"	"Attention, Perception, and Memory Lab"	/aly/	Yes
 "Amso, Dima"	Developmental Cognitive Neuroscience Lab	/amso/	Yes
 "Baldassano, Chris"	Dynamic Perception and Memory Lab	/baldassano/	Yes
 "Balsam, Peter"	Adaptive Behavior Lab	/balsam/	No
@@ -14,7 +14,7 @@ Faculty	Lab_only	urls	RAs
 "Kriegeskorte, Niko"	Visual Inference Lab	/kriegeskorte/	Yes
 "Marlin, Bianca Jones"	The Marlin Lab	/marlin/	No
 "Metcalfe, Janet"	Metacognition and Memory Lab	/metcalfe/	No
-"Ochsner, Kevin"	"Social, Cognitive, and Affective Neuroscience Lab"	/ochsner/	No
+"Ochsner, Kevin"	"Social, Cognitive, and Affective Neuroscience Lab"	/ochsner/	Yes
 "Purdie-Greenway, Valerie"	Laboratory of Intergroup Relations and the Social Mind	/purdie-greenway/	Yes
 "Shohamy, Daphna"	The Learning Lab	/shohamy/	Yes
 "Silver, Rae"	The Silver Neurobiology Lab	/silver/	Yes

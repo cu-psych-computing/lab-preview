@@ -28,98 +28,19 @@ slug: tottenham
 **The Developmental Affective Neuroscience Lab is not currently seeking research assistants**
 </span>
 
-***
-
-<div class="video-box">
-  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/UgVoWj-7Vj8"></iframe>
-</div>
-
-***
-
-<div class="video-box">
-  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/8g2xtHVfAfA"></iframe>
-</div>
-
-***
-
 ## Lab Description:
-We are scientists who conduct research on emotional development and associated neurobiology. Our research focuses on the process of development itself and how early experiences impact emotional behavior and brain development. Dr. Nim Tottenham is the Principal Investigator of the lab. Students in the laboratory work on projects covering a wide range of topics including neurobiological correlates of early adversity, emotion regulation, face processing, and temperament. We are committed to hiring individuals with diverse backgrounds, experiences, and beliefs. To apply for a volunteer research assistant position, please visit our lab website [(danlab.psychology.columbia.edu)](danlab.psychology.columbia.edu) and complete the webform on the [Contact Us page](https://danlab.psychology.columbia.edu/content/contact-us). For more information, please contact Amaesha Durazi (ad3730@columbia.edu) and Syntia Hadis (ssh2186@columbia.edu).
+We are scientists who conduct research on emotional development and associated neurobiology. Our research focuses on the process of development itself and how early experiences impact emotional behavior and brain development. Dr. Nim Tottenham is the Principal Investigator of the lab. Students in the laboratory work on projects covering a wide range of topics including neurobiological correlates of early adversity, emotion regulation, face processing, and temperament. We are committed to hiring individuals with diverse backgrounds, experiences, and beliefs. To apply for a volunteer research assistant position, please visit our lab website (danlab.psychology.columbia.edu) and complete the webform on the Contact Us page. For more information, please contact Erica Niemiec (en2419@columbia.edu).
 
 ## Topics studied in the lab:
 ***
-
 ### Neuro-Affective Development
+
 We are longitudinally examining the normative development of the amygdala and its connections with the cortex from early childhood through the transition into adolescence.
 
 ### Effects of Early-Life Adversity on Brain Development
+
 In order to better understand how early experiences shape brain development, we study the neurodevelopment of children who experience various forms of early life stress (e.g., poor caregiving) in hopes to understand long-term effects of early adversity in humans.
 
-### Familiar Music, Emotion, & Autobiographical Memory
-Familiar music from one’s childhood and adolescence has been found to elicit strong emotional reactions and has been suggested as a potential therapy for patients with dementia. We are studying how being cued with familiar music from one’s early life might affect both mood and recall of autobiographical memories.
-
-## Projects we are currently recruiting for:
-***
-
-### Daily emotional dynamics and emotion regulation with parents and children in the natural environment 
-**Supervisor: Anna Vannucci**
-
-We are examining how emotions and emotion regulation processes unfold in the daily lives of early adolescents (ages 11-14), most of whom were exposed to caregiving-related early adversities, and one of their primary caregivers to better understand how, when, and with whom differents aspects of emotion co-regulation and social support are most helpful. This study uses a dyadic experience sampling design, meaning that young teens and their caregivers will complete brief surveys on their phones between 5-7 times per day for 1-week. 
-
-**How many RAs are we looking for?**
-1-2 RAs
-
-**Expected hours per week:**
-7-10 hrs/week (with some weekend hours), 2 semester commitment 
-
-**RA responsibilities:**
-
-* Setting up REDCap surveys for families
-
-* Creating at-home calendars tailored to each family
-
-* Daily compliance tracking of parent-child dyads currently enrolled (i.e. tracking whether each of the surveys were completed)
-
-* Updating tracking spreadsheet and plots using Rstudio with compliance information obtained REDCap on a daily basis
-
-* Checking in with parent-child dyads at the beginning, middle, and end of the 7-day protocol, as well as when several surveys have been missed
-
-* Weekly team meetings
-
-**RA qualifications:**
-
-* No prior experience with R or REDCap is needed, as training will be provided
-
-* Enthusiasm for studying caregiving-related developmental processes
-
-* Ideal candidates for this role will be reliable, hard-working, flexible in adapting to unknown situations (experience sampling can have lots of technical hiccups), and enjoy working with a team
-
-
-### Familiar Music, Emotion, & Autobiographical Memory 
-**Supervisor: Paul Bloom**
-
-Familiar music from one’s childhood and adolescence has been found to elicit strong emotional reactions and has been suggested as a potential therapy for patients with dementia. We are studying how being cued with familiar music from one’s early life might affect both mood and recall of autobiographical memories in a study conducted via Zoom with cognitively healthy adults ages 65-80.
-
-**How many RAs are we looking for?**
-1-2 RAs
-
-**Expected hours per week:**
-10-15 hrs/week, 2 semester commitment 
-
-**RA responsibilities:**
-
-* Working with transcripts of participants' autobiographical memory interviews
-
-* Scoring autobiographical interview transcripts for various types of details and emotions
-
-* Weekly team meetings
-
-* RA qualifications:
-
-* No prior experience required
-
-* Enthusiasm for studying memory, emotions, and music across the lifespan
-
-* Ideal candidates for this role will enjoy working with a team
 
 ## Lab Contact Information
 ***
@@ -127,12 +48,9 @@ Familiar music from one’s childhood and adolescence has been found to elicit s
 ```{r, echo = F}
 library(kableExtra)
 options(kableExtra.html.bsTable = TRUE)
-contact <- data.frame(Contact = c("Amaesha Durazi",
-                                  "Syntia Hadis"),
-                   Role = c("Lab Manager",
-                            "Lab Manager"),
-                   Email = c("ad3730@columbia.edu",
-                             "ssh2186@columbia.edu"))
+contact <- data.frame(Contact = c("Erica Niemiec"),
+                   Role = c("Lab Manager"),
+                   Email = c("en2419@columbia.edu"))
 contact %>%
   kbl() %>%
   kable_material(c("striped","hover"))
