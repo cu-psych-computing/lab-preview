@@ -10,7 +10,7 @@ Faculty	Lab_only	urls	RAs
 "Graham, Norma"	Mathematical Models of Visual Processes	/graham/	No
 "Hart, Carl"	Neuropsychopharmacology Lab	/hart/	No
 "Heiphetz, Larisa"	Social and Moral Cognition Lab	/heiphetz/	No
-"Higgins, Tory"	Motivational and Social Cognition Lab	/higgins/	No
+"Higgins, Tory"	Motivational and Social Cognition Lab	/higgins/	Yes
 "Kriegeskorte, Niko"	Visual Inference Lab	/kriegeskorte/	Yes
 "Marlin, Bianca Jones"	The Marlin Lab	/marlin/	No
 "Metcalfe, Janet"	Metacognition and Memory Lab	/metcalfe/	No
