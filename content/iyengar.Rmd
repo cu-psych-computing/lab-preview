@@ -45,9 +45,9 @@ Please submit a resume/CV and tell us why you are interested in this position. M
 ```{r, echo = F}
 library(kableExtra)
 options(kableExtra.html.bsTable = TRUE)
-contact <- data.frame(Contact = c("Sean Kaczmarek"),
+contact <- data.frame(Contact = c("Shraman Sen"),
                    Role = c("Lab Manager"),
-                   Email = c("stk2133@columbia.edu"))
+                   Email = c("ss5158@columbia.edu"))
 contact %>%
   kbl() %>%
   kable_material(c("striped","hover"))
