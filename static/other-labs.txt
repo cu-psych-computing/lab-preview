@@ -8,5 +8,5 @@ COMBO Study	Motherhood in COVID Study	/combo/	Yes
 "Kao, Tina"	The Plasticity of Cognitive Maps Lab	/kao/	Yes
 "Matz, Sandra"	Computational Behavioral Science Lab	/matz/	Yes
 "Morris, Michael"	Cultural Psychology Lab	/morris/	Yes
-"Noble, Kimberly"	The NEED Lab	/noble/	No
+"Noble, Kimberly"	The NEED Lab	/noble/	Yes
 "Verdeli, Helen"	The Global Mental Health Lab	/verdeli/	Yes
