@@ -4,7 +4,7 @@ Faculty	Lab_only	urls	RAs
 "Cha, Christine"	Laboratory for Clinical and Developmental Studies 	/cha/	No
 COMBO Study	Motherhood in COVID Study	/combo/	Yes
 "Dumitriu, Dani"	Nurture Science Program	/dumitriu/	Yes
-"Isacoff, Nora"	Lexical and Conceptual Representation	https://sites.google.com/view/noramisacoff	Yes
+"Isacoff, Nora"	Diverse Intelligences	https://sites.google.com/view/noramisacoff	Yes
 "Iyengar, Sheena"	"Authenticity, Choice, and Technology Lab"	/iyengar/	Yes
 "Kao, Tina"	The Plasticity of Cognitive Maps Lab	/kao/	Yes
 "Matz, Sandra"	Computational Behavioral Science Lab	/matz/	Yes
