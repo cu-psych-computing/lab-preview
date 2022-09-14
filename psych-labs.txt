@@ -17,6 +17,6 @@ Faculty	Lab_only	urls	RAs
 "Ochsner, Kevin"	"Social, Cognitive, and Affective Neuroscience Lab"	/ochsner/	Yes
 "Purdie-Greenway, Valerie"	Laboratory of Intergroup Relations and the Social Mind	/purdie-greenway/	Yes
 "Shohamy, Daphna"	The Learning Lab	/shohamy/	Yes
-"Silver, Rae"	The Silver Neurobiology Lab	/silver/	Yes
+"Silver, Rae"	The Silver Neurobiology Lab	/silver/	No
 "Spagna, Alfredo"	Living Lab	/spagna/	No
 "Tottenham, Nim"	Developmental Affective Neuroscience Lab	/tottenham/	No
