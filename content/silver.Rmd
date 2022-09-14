@@ -25,8 +25,8 @@ slug: silver
 
 # The Silver Neurobiology Lab
 
-<span style="color:green">
-**The Silver Neurobiology Lab is currently seeking research assistants**
+<span style="color:red">
+**The Silver Neurobiology Lab is not currently seeking research assistants**
 </span>
 
 ***
