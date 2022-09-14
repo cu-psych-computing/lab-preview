@@ -58,9 +58,12 @@ How can we best use computational methods to study questions about the social en
 ```{r, echo = F}
 library(kableExtra)
 options(kableExtra.html.bsTable = TRUE)
-contact <- data.frame(Contact = c("Valerie Purdie-Greenway"),
-                   Role = c("PI"),
-                   Email = c("lirsm@psych.columbia.edu"))
+contact <- data.frame(Contact = c("Valerie Purdie-Greenway",
+                                  "Kylin"),
+                   Role = c("PI",
+                            "Lab Manager"),
+                   Email = c("lirsm@psych.columbia.edu",
+                             "kgw2120@columbia.edu"))
 contact %>%
   kbl() %>%
   kable_material(c("striped","hover"))
