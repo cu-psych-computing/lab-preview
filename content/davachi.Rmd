@@ -25,8 +25,8 @@ slug: davachi
 
 # The Davachi Memory Lab
 
-<span style="color:green">
-**The Davachi Memory Lab is currently seeking research assistants**
+<span style="color:red">
+**The Davachi Memory Lab is not currently seeking research assistants**
 </span>
 
 <div class="video-box">
@@ -47,36 +47,15 @@ As time passes after an initial learning experience, our memories do not remain 
 
 Although our lives unfold continuously across time, we often remember our experiences as sequences of discrete events. How, then, do we derive structure from this constant stream of information? What neural and behavioral mechanisms might support our ability to organize, bind, or segment our everyday experiences into meaningful mnemonic events?
 
-## Research Opportunities
-
-### Motorvated Memory
-
-The Davachi Memory Lab at Columbia University is recruiting 1-2
-volunteer research assistants to begin in September 2022. As a research
-assistant you would be involved in an fMRI study that investigates how we learn and remember the order of experiences. Many of our everyday tasks exists of organized sequences (e.g., your morning commute to campus), in this study you will investigate how the brain encodes and preserves the order of these sequential memory representations. RAs will include running participants, reading publications relevant to the given experiment and data entry. Programming experience, while preferred, is not required. If an RA is interested, opportunities for programming experience (e.g., troubleshooting experiment code, analyzing data) and data analysis are available. Likewise, RAs will be invited (and highly encouraged) to attend lab meetings if their schedule allows them to. Finally, RA applicants should be able to commit a minimum of 10 hours per week for the role.
-To apply: Please send over the following items to Nina Dolfen (nad2167@columbia.edu): your weekly availability for Fall 2022, your CV (or resume), and a brief description of your interest in the project(s). Applications will be reviewed on a rolling basis until all spots are filled. Please feel free to reach out with questions or concerns.
-
-### Ambiguous & Spaced Learning
-
-The Davachi Memory Lab at Columbia University may be recruiting a volunteer research assistant to begin in September 2022. RAs will be involved in one of two behavioral experiments that broadly examine how learning processes influence memory later on. The first study will examine how humans predict upcoming events under ambiguous circumstances, and how these events may be transformed into long-term memories. The second study will investigate how different encoding schedules (e.g., spaced vs. massed) affect memory and decision making. Immediate responsibilities for RAs will include running participants, reading publications relevant to the given experiment, data entry, and stimulus development. Programming experience, while preferred, is not required. If an RA is interested, opportunities for programming experience (e.g., troubleshooting experiment code, analyzing data) may be available. Likewise, RAs will be invited (and highly encouraged) to attend lab meetings if their schedule allows them to. Finally, RA applicants should be able to commit a minimum of 10 hours per week for the role.
-
-To apply: Please send over the following items to Arlene Lormestoire (al4201@columbia.edu) and Wangjing Yu (wy2345@columbia.edu): your weekly availability for Fall 2022, your CV (or resume), and a brief description of your interest in the project(s). If you have a preference on which study you are interested in working on, please remember to include it in your message. Applications will be reviewed on a rolling basis until all spots are filled. Please feel free to reach out with questions or concerns. 
-
 
 ## Contact Information
 
 ```{r, echo = F}
 library(kableExtra)
 options(kableExtra.html.bsTable = TRUE)
-contact <- data.frame(Contact = c("Nina Dolfen",
-                                  "Arlene Lormestoire",
-                                  "Wangjing Yu"),
-                   Role = c("Post-Doc",
-                            "Grad Student",
-                            "Grad Student"),
-                   Email = c("nad2167@columbia.edu",
-                             "al4201@columbia.edu",
-                             "wy2345@columbia.edu"))
+contact <- data.frame(Contact = c("Kathryn Lockwood"),
+                   Role = c("Lab Manager"),
+                   Email = c("kel2173@columbia.edu"))
 contact %>%
   kbl() %>%
   kable_material(c("striped","hover"))
