@@ -1,6 +1,6 @@
 Faculty	Lab_only	urls	RAs
 "Aly, Mariam"	"Attention, Perception, and Memory Lab"	/aly/	Yes
-"Amso, Dima"	Developmental Cognitive Neuroscience Lab	/amso/	No
+"Amso, Dima"	Developmental Cognitive Neuroscience Lab	/amso/	Yes
 "Baldassano, Chris"	Dynamic Perception and Memory Lab	/baldassano/	Yes
 "Balsam, Peter"	Adaptive Behavior Lab	/balsam/	No
 "Bolger, Nial"	Couples Lab	/bolger/	No
