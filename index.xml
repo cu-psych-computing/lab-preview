@@ -21,7 +21,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/aly/</guid>
-      <description>.video-box { position: relative; overflow: hidden; width: 100%; padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */ } /* Then style the iframe to fit in the container div with full height and width */ .responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }  The Attention, Memory, and Perception Lab The Attention, Memory, and Perception Lab is currently seeking research assistants</description>
+      <description>.video-box { position: relative; overflow: hidden; width: 100%; padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */ } /* Then style the iframe to fit in the container div with full height and width */ .responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }  The Attention, Memory, and Perception Lab The Attention, Memory, and Perception Lab is not currently seeking research assistants</description>
     </item>
     
     <item>
@@ -57,7 +57,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/davachi/</guid>
-      <description>.video-box { position: relative; overflow: hidden; width: 100%; padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */ } /* Then style the iframe to fit in the container div with full height and width */ .responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }  The Davachi Memory Lab The Davachi Memory Lab is not currently seeking research assistants</description>
+      <description>.video-box { position: relative; overflow: hidden; width: 100%; padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */ } /* Then style the iframe to fit in the container div with full height and width */ .responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }  The Davachi Memory Lab The Davachi Memory Lab is currently seeking research assistants</description>
     </item>
     
     <item>
@@ -75,7 +75,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/baldassano/</guid>
-      <description>.video-box { position: relative; overflow: hidden; width: 100%; padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */ } /* Then style the iframe to fit in the container div with full height and width */ .responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }  The Dynamic Perception and Memory Lab The Dynamic Perception and Memory Lab is currently seeking research assistants</description>
+      <description>.video-box { position: relative; overflow: hidden; width: 100%; padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */ } /* Then style the iframe to fit in the container div with full height and width */ .responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }  The Dynamic Perception and Memory Lab The Dynamic Perception and Memory Lab is not currently seeking research assistants</description>
     </item>
     
     <item>
@@ -147,7 +147,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/higgins/</guid>
-      <description>.video-box { position: relative; overflow: hidden; width: 100%; padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */ } /* Then style the iframe to fit in the container div with full height and width */ .responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }  The Motivational and Social Cognition Lab The Motivational and Social Cognition Lab is currently seeking research assistants</description>
+      <description>.video-box { position: relative; overflow: hidden; width: 100%; padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */ } /* Then style the iframe to fit in the container div with full height and width */ .responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }  The Motivational and Social Cognition Lab The Motivational and Social Cognition Lab is not currently seeking research assistants</description>
     </item>
     
     <item>
@@ -183,7 +183,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/heiphetz/</guid>
-      <description>.video-box { position: relative; overflow: hidden; width: 100%; padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */ } /* Then style the iframe to fit in the container div with full height and width */ .responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }  The Social and Moral Cognition Lab The Social and Moral Cognition Lab is not currently seeking research assistants</description>
+      <description>.video-box { position: relative; overflow: hidden; width: 100%; padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */ } /* Then style the iframe to fit in the container div with full height and width */ .responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }  The Social and Moral Cognition Lab The Social and Moral Cognition Lab is currently seeking research assistants</description>
     </item>
     
     <item>
@@ -230,7 +230,7 @@ We aim to understand how social relationships influence people’s functioning, 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tottenham/</guid>
-      <description>.video-box { position: relative; overflow: hidden; width: 100%; padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */ } /* Then style the iframe to fit in the container div with full height and width */ .responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }  The Developmental Affective Neuroscience Lab The Developmental Affective Neuroscience Lab is not currently seeking research assistants</description>
+      <description>.video-box { position: relative; overflow: hidden; width: 100%; padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */ } /* Then style the iframe to fit in the container div with full height and width */ .responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }  The Developmental Affective Neuroscience Lab The Developmental Affective Neuroscience Lab is currently seeking research assistants</description>
     </item>
     
     <item>
@@ -275,7 +275,7 @@ We aim to understand how social relationships influence people’s functioning, 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/freeman/</guid>
-      <description>.video-box { position: relative; overflow: hidden; width: 100%; padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */ } /* Then style the iframe to fit in the container div with full height and width */ .responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }  The Social Cognitive and Neural Sciences Lab The Freeman Lab is currently seeking research assistants</description>
+      <description>.video-box { position: relative; overflow: hidden; width: 100%; padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */ } /* Then style the iframe to fit in the container div with full height and width */ .responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }  The Social Cognitive and Neural Sciences Lab The Freeman Lab is not currently seeking research assistants</description>
     </item>
     
     <item>
