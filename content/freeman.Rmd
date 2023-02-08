@@ -25,8 +25,8 @@ slug: freeman
 
 # The Social Cognitive and Neural Sciences Lab
 
-<span style="color:green">
-**The Freeman Lab is currently seeking research assistants**
+<span style="color:red">
+**The Freeman Lab is not currently seeking research assistants**
 </span>
 
 

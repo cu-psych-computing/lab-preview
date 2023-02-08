@@ -25,8 +25,8 @@ slug: baldassano
 
 # The Dynamic Perception and Memory Lab
 
-<span style="color:green">
-**The Dynamic Perception and Memory Lab is currently seeking research assistants**
+<span style="color:red">
+**The Dynamic Perception and Memory Lab is not currently seeking research assistants**
 </span>
 
 <div class="video-box">

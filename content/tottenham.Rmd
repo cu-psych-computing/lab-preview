@@ -24,23 +24,25 @@ slug: tottenham
 
 # The Developmental Affective Neuroscience Lab
 
-<span style="color:red">
-**The Developmental Affective Neuroscience Lab is not currently seeking research assistants**
+<span style="color:green">
+**The Developmental Affective Neuroscience Lab is currently seeking research assistants**
 </span>
 
+The Developmental Affective Neuroscience Lab is seeking 1-2 research assistants to assist with a study 
+
 ## Lab Description:
-We are scientists who conduct research on emotional development and associated neurobiology. Our research focuses on the process of development itself and how early experiences impact emotional behavior and brain development. Dr. Nim Tottenham is the Principal Investigator of the lab. Students in the laboratory work on projects covering a wide range of topics including neurobiological correlates of early adversity, emotion regulation, face processing, and temperament. We are committed to hiring individuals with diverse backgrounds, experiences, and beliefs. To apply for a volunteer research assistant position, please visit our lab website (danlab.psychology.columbia.edu) and complete the webform on the Contact Us page. For more information, please contact Erica Niemiec (en2419@columbia.edu).
+
+We are scientists who conduct research on emotional development and associated neurobiology. Our research focuses on the process of development itself and how early experiences impact emotional behavior and brain development. Dr. Nim Tottenham is the Principal Investigator of the lab. Students in the laboratory work on projects covering a wide range of topics including neurobiological correlates of early adversity, emotion regulation, face processing, and temperament. We are committed to hiring individuals with diverse backgrounds, experiences, and beliefs. To apply for a volunteer research assistant position, please visit our lab website (danlab.psychology.columbia.edu) and complete the webform on the Contact Us page. Please note that a 1+ year commitment with plans to stay in NYC area over summer is  preferred. For more information, please contact Erica Niemiec (en2419@columbia.edu).
 
 ## Topics studied in the lab:
-***
+
 ### Neuro-Affective Development
 
-We are longitudinally examining the normative development of the amygdala and its connections with the cortex from early childhood through the transition into adolescence.
+We are longitudinally examining the normative development of the amygdala and its connections with the cortex from early childhood through the transition into adolescence. We are also starting preparations for a study using novel collection procedures to obtain functional neuroimaging data from awake toddlers to investigate how neural circuitry develops during this early window of development and supports the emergence of emotional behavior.
 
 ### Effects of Early-Life Adversity on Brain Development
 
 In order to better understand how early experiences shape brain development, we study the neurodevelopment of children who experience various forms of early life stress (e.g., poor caregiving) in hopes to understand long-term effects of early adversity in humans.
-
 
 ## Lab Contact Information
 ***
