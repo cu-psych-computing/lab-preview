@@ -100,12 +100,12 @@ labs %>%
 library(knitr)
 labs <- read.delim("../static/other-labs.txt") %>%
   mutate(Lab = paste0("[", Lab_only, "](", urls, ")")) %>%
-  mutate("Recruiting<br>Fall 2022" = RAs)
+  mutate("Recruiting<br>Spring 2023" = RAs)
 
 
 options(kableExtra.html.bsTable = TRUE)
 labs %>%
-  select(Faculty, "Recruiting<br>Fall 2022", Lab) %>%
+  select(Faculty, "Recruiting<br>Spring 2023", Lab) %>%
   kbl(escape = F) %>%
   kable_material(c("striped","hover"))
 ```
