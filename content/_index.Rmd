@@ -6,6 +6,12 @@ title: "CU Psychology Research Opportunities"
 library(kableExtra)
 options(kableExtra.html.bsTable = TRUE)
 library(tidyverse)
+library(lubridate)
+date <- Sys.Date()
+season <- ifelse(month(date) > 11 | month(date) < 4, "Spring", 
+                 ifelse(month(date) < 8, "Summer", "Fall"))
+season_year <- ifelse(month(date) < 11, as.character(year(date)), as.character(year(date) + 1))
+recruiting_text = paste0("Recruiting<br>", season, " ", season_year)
 ```
 
 # Welcome!
@@ -70,7 +76,6 @@ If you are thinking about pursuing graduate work in experimental psychology, we 
 *	Is there anyone else like me in these programs?
 
 If you’re wondering about the same things, we encourage you to check out the podcast. It is available in video form on YouTube and in audio form on Apple Podcasts, Spotify, or your other preferred podcast app. To receive notifications when new episodes launch each month, join our email list.
-Labs in the Psychology Department
 
 ## Labs in the Psychology Department
 
@@ -79,13 +84,14 @@ Labs in the Psychology Department
 ```{r, echo = F, warning = F}
 library(knitr)
 labs <- read.delim("../static/psych-labs.txt") %>%
-  mutate(Lab = paste0("[", Lab_only, "](", urls, ")")) %>%
-  mutate("Recruiting<br>Fall 2022" = RAs)
+  mutate(Lab = paste0("[", Lab_only, "](", urls, ")"))
+
+labs[[recruiting_text]] = labs[["RAs"]]
 
 
 options(kableExtra.html.bsTable = TRUE)
 labs %>%
-  select(Faculty, "Recruiting<br>Fall 2022", Lab) %>%
+  select(Faculty, !!recruiting_text, Lab) %>%
   kbl(escape = F) %>%
   kable_material(c("striped","hover"))
 
@@ -98,14 +104,15 @@ labs %>%
 
 ```{r, echo = F, warning = F}
 library(knitr)
-labs <- read.delim("../static/other-labs.txt") %>%
-  mutate(Lab = paste0("[", Lab_only, "](", urls, ")")) %>%
-  mutate("Recruiting<br>Spring 2023" = RAs)
 
+labs <- read.delim("../static/other-labs.txt") %>%
+  mutate(Lab = paste0("[", Lab_only, "](", urls, ")")) 
+
+labs[[recruiting_text]] = labs[["RAs"]]
 
 options(kableExtra.html.bsTable = TRUE)
 labs %>%
-  select(Faculty, "Recruiting<br>Spring 2023", Lab) %>%
+  select(Faculty, !!recruiting_text, Lab) %>%
   kbl(escape = F) %>%
   kable_material(c("striped","hover"))
 ```
